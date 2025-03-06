@@ -1,0 +1,95 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KSRTC Passenger Distribution Heat Map</title>
+    <link rel="stylesheet" href="{% static 'map.css' %}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
+
+</head>
+<body>
+
+<div id="container">
+    <!-- Map Container -->
+    {% if map_html %}
+    <div id="map-container" class="section">
+        {{ map_html|safe }}
+    </div>
+    {% else %}
+    <div class="section">
+        <h2>Generating Bus Stop Map...</h2>
+        <div id="progress-container">
+            <div id="progress-bar">0%</div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Chat Container -->
+    <div id="chat-container" class="section">
+        <div>
+            <h2>KSRTC Chat Bot </h2>
+        </div>
+        <div id="chat-history"></div>
+        <div id="inputs">
+            <input type="text" id="chat-input" placeholder="Type your message...">
+            <button id="send-button">Send</button>
+        </div>
+    </div>
+
+    <!-- Loading Spinner -->
+    <div id="loading-spinner">
+        <div class="spinner"></div> 
+        <p>Loading...</p>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function() {
+        try {
+            const mapData = JSON.parse(" {{ data|escapejs }} ");
+            console.log("Parsed Map Data:", mapData);
+
+            // Show loading spinner when sending the request
+            $('#send-button').click(function() {
+                const userMessage = $('#chat-input').val().trim();
+                if (userMessage === '') return;
+                // Show loading spinner
+                $('#loading-spinner').show();
+
+                $.ajax({
+                    type: 'POST',
+                    url: `{% url 'ask_chatbot' %}`,
+                    data: {
+                        'prompt':`You are a chat bot to help Kerala State Road Transport Corporation officials better plan their routes. 
+            THE USER IS ASKING THE FOLLOWING QUESTION: ${userMessage}
+            Talk to him if he is asking some general questions not related to bus stops or tickets
+            Respond to queries using only this data.LIMIT RESPONSE TO LESS THAN 500 CHARACTERS. 
+            Your response goes directly to the official and this prompt is set by the developer. The user message is at the end 
+            of this prompt: Respond like you only read the user message and the data given after this. Based on the following map
+             data in the format Stop Name: Passenger Count: ${JSON.stringify(mapData)},`
+                    },
+                    success: function(response) {
+                        console.log("Chatbot Response:", response);
+                        // Hide loading spinner after response is received
+                        $('#loading-spinner').hide();
+                        $('#chat-history').append(`<div class="chat-message"><strong>You:</strong> ${userMessage}</div>`);
+                        $('#chat-history').append(`<div class="chat-message"><strong>Chatbot:</strong> ${response.answer}</div>`);
+                        $('#chat-input').val('');
+                    },
+                    error: function() {
+                        // Hide loading spinner if there's an error
+                        $('#loading-spinner').hide();
+                        $('#chat-history').append(`<div class="chat-message"><strong>Error:</strong> Something went wrong.</div>`);
+                    }
+                });
+            });
+        } catch (error) {
+            console.error("Failed to parse map data:", error);
+        }
+    });
+</script>
+
+</body>
+</html>

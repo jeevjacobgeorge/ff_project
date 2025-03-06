@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Month and Time Range</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #d32f2f;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 600px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            font-size: 1.1em;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        select, input[type="time"] {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 1em;
+        }
+
+        button {
+            background-color: #d32f2f;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1em;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #c62828;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #777;
+            margin-top: 20px;
+        }
+
+        .footer a {
+            color: #d32f2f;
+            text-decoration: none;
+        }
+
+        .loading-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.9);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .loading-circle {
+            border: 10px solid #f3f3f3;
+            border-top: 10px solid #d32f2f;
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            animation: spin 2s linear infinite;
+        }
+
+        .loading-text {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 1.2em;
+            color: #d32f2f;
+        }
+
+        .loading-text .percentage {
+            font-size: 2em;
+        }
+
+        /* Circular Loading Animation */
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        form input[type="date"],
+        form select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        form input[type="date"]:focus,
+        form select:focus {
+            border-color: #007BFF;
+            box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+            outline: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="loading-screen" id="loadingScreen">
+        <div class="loading-circle"></div>
+        <div class="loading-text">
+            Geocoding in progress... <span class="percentage" id="percentage">0%</span>
+        </div>
+    </div>
+
+    <header>
+        <h1>KSRTC Passenger Distribution Heat Map Generator</h1>
+    </header>
+
+    <div class="container">
+        <form method="get" action="/generate-map/" onsubmit="convertTimeToHours(event)">
+            <!-- <label for="start_date">Start Date (YYYY-MM-DD):</label>
+            <input type="date" id="start_date" name="start_date" placeholder="YYYY-MM-DD" value="{{ start_date }}" min="2024-06-01" max="2024-10-31" required>
+            
+            <label for="end_date">End Date (YYYY-MM-DD):</label>
+            <input type="date" id="end_date" name="end_date" placeholder="YYYY-MM-DD" value="{{ end_date }}" min="2024-06-01" max="2024-10-31" required>
+             -->
+             <label for="month">Select Month:</label>
+             <select name="month" id="month">
+                 <!-- <option value="January">January</option>
+                 <option value="February">February</option>
+                 <option value="March">March</option>
+                 <option value="April">April</option>
+                 <option value="May">May</option> -->
+                 <option value="June">June</option>
+                 <option value="July">July</option>
+                 <option value="August">August</option>
+                 <option value="September">September</option>
+                 <option value="October" selected>October</option>
+                 <!-- <option value="November">November</option>
+                 <option value="December">December</option> -->
+             </select>
+            <label for="start_day">Start Day:</label>
+            <select id="start_day" name="start_day">
+                <option value="" {% if start_day == None %}selected{% endif %} disabled>Select Start Day</option>
+                {% for day in days %}
+                    <option value="{{ day }}" {% if start_day == day %}selected{% endif %}>{{ day }}</option>
+                {% endfor %}
+            </select>
+            
+            <label for="end_day">End Day:</label>
+            <select id="end_day" name="end_day">
+                <option value="" {% if end_day == None %}selected{% endif %} disabled>Select End Day</option>
+                {% for day in days %}
+                    <option value="{{ day }}" {% if end_day == day %}selected{% endif %}>{{ day }}</option>
+                {% endfor %}
+            </select>
+            
+            <label for="start_time">Start Hour:</label>
+            <select id="start_time" name="start_time">
+                <option value="" selected disabled>Select Start Hour</option>
+                {% for hour in hours %}
+                    <option value="{{ hour }}" {% if start_time == hour %}selected{% endif %}>{{ hour }}:00</option>
+                {% endfor %}
+            </select>
+            
+            <label for="end_time">End Hour:</label>
+            <select id="end_time" name="end_time">
+                <option value="" selected disabled>Select End Hour</option>
+                {% for hour in hours %}
+                    <option value="{{ hour }}" {% if end_time == hour %}selected{% endif %}>{{ hour }}:00</option>
+                {% endfor %}
+            </select>
+            
+            <button type="submit" onclick="showLoadingScreen()">Generate Map</button>
+        </form>
+    </div>
+    
+
+    <div class="footer">
+        <p>Need help? <a href="mailto:support@example.com">Contact Support</a></p>
+    </div>
+
+    <script>
+        async function showLoadingScreen() {
+            document.getElementById('loadingScreen').style.display = 'flex';
+            const percentageElement = document.getElementById('percentage');
+            let progress = 0;
+            async function updateProgress() {
+                try {
+                    
+                    const response = await fetch('/geocoding-progress/');
+                    const data = await response.json();
+                    console.log(data);
+                    progress = data.progress;
+                    percentageElement.textContent = `${progress}%`;
+
+                    if (progress < 100) {
+                        // Using microtask delay to update every second
+                        await new Promise(resolve => setTimeout(resolve, 1000)); 
+                        updateProgress(); // Recursive call for the next progress check
+                    }
+                } catch (error) {
+                    console.error('Error fetching progress:', error);
+                }
+            }
+
+            // Start the progress update
+            await updateProgress();
+        }
+
+
+        function convertTimeToHours(event) {
+            const startTimeInput = document.getElementById('start_time');
+            const endTimeInput = document.getElementById('end_time');
+
+            if (startTimeInput.value && endTimeInput.value) {
+                const startHour = parseInt(startTimeInput.value.split(':')[0], 10);
+                const endHour = parseInt(endTimeInput.value.split(':')[0], 10);
+
+                startTimeInput.value = startHour;
+                endTimeInput.value = endHour;
+            } else {
+                alert('Please select both start and end times.');
+                event.preventDefault();
+            }
+        }
+    </script>
+</body>
+</html>

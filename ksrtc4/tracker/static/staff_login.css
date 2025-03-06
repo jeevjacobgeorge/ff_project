@@ -1,0 +1,97 @@
+body{
+  background-color: #d32f2f;
+}
+.top{
+  background-color: #d32f2f;
+  height: 40vh;
+}
+
+.login-box{
+  background-color: white;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  border-top-left-radius: 5rem;
+  border-top-right-radius: 5rem;
+  justify-content: center;
+  text-align: center;
+  height: 60vh;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.contents{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 1rem;
+}
+.bottom{
+  background-color: #d32f2f;
+}
+.transit-text{
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Montserrat', sans-serif; /* Montserrat font */
+    font-weight: bold;
+    color: white; /* white color */
+    height: 0vh;
+    padding-top: 4%;
+}
+
+.busimg1{
+  width: 180px;
+  height: 360px;
+}
+.busimg2{
+  width: 180px;
+  height: 360px;
+}
+label{
+  font-size: 3rem;
+  color: #d32f2f;
+  margin-top: 2rem;
+  text-align: left;
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 800;
+}
+.login-box input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-bottom: 2px solid #cccccc; /* Add bottom border */
+  border-radius: 10px;
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 600;
+}
+.butt{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  text-align: center;
+  height: 3rem;
+  width: 70%;
+}
+#login-button, #signup-button{
+  width: 70%;
+  padding: 10px;
+  height: 3rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 3rem;
+  background-color: #d32f2f;
+  color: white;
+  font-size: 18px;
+  font-family: "proxima-nova", sans-serif;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+#login-button:hover, #signup-button:hover{
+  background-color: #cccccc; /* light gray background on hover */
+}

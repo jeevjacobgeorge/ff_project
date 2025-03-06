@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+    justify-content: center;
+  }
+  input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color:#623DEE;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  #map {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .map-container {
+    width: 100%;
+    height: 100%;
+  }
+  .locicon{
+    width: 3.5rem;
+    margin-right: 10rem;
+    margin-top: 15px;
+  }
+  #current{
+    margin-top: 10px;
+    margin-bottom: 0%;
+    color: #918f8f;
+  }
+  .locationbox{
+    width:22%;
+    background-color: white;
+    height: 20%;
+    border: 2px solid white;
+    z-index: 100;
+    margin-top: 40%;
+    text-align: center;
+    font-family: 'Montserrat', bold;
+    font-size: 1.1rem;
+    border-radius: 2rem;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .leaflet-container, .leaflet-touch, .leaflet-retina, .leaflet-fade-anim, .leaflet-grab, .leaflet-touch-drag , .leaflet-touch-zoom{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }

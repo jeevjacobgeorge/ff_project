@@ -1,0 +1,88 @@
+document.getElementById('searchBtn').addEventListener('click', fetchApi);
+let from=null;
+let to=null;
+
+async function fetchApi() {
+     from = document.getElementById('fromInput').value;
+     to = document.getElementById('toInput').value;
+    const currentDate = new Date();
+    const year = currentDate.getFullYear();
+    const month = String(currentDate.getMonth() + 1).padStart(2, '0');
+    const day = String(currentDate.getDate()).padStart(2, '0');
+    const date = `${year}-${month}-${day}`;
+    const url = `https://onlineksrtcswift.com/api/resource/searchRoutesV4?fromCityName=${from}&toCityName=${to}&journeyDate=${date}&mode=oneway`;
+
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        const data = await response.json();
+        if (!Array.isArray(data) || data.length === 0) {
+            displayNoResultsMessage();
+        } else {
+            displayBusResults(data);
+        }
+    } catch (err) {
+        console.error('Error fetching data:', err);
+    }
+}
+
+function displayNoResultsMessage() {
+    const busResults = document.getElementById('busResults');
+    busResults.innerHTML = '<p>No bus results found.</p>';
+}
+
+function displayBusResults(data) {
+    const busResults = document.getElementById('busResults');
+    busResults.innerHTML = '';
+
+    const table = document.createElement('table');
+    table.classList.add('bus-table');
+
+    // Create table header
+    const headers = ['Service Type', 'Departure Time', 'Arrival Time'];
+    const headerRow = document.createElement('div');
+    headerRow.classList.add('bus-header');
+    headers.forEach(headerText => {
+      const th = document.createElement('div');
+      th.textContent = headerText;
+      headerRow.appendChild(th);
+    });
+    table.appendChild(headerRow);
+
+    // Populate table with data
+    data.forEach(bus => {
+      const row = document.createElement('div');
+      row.classList.add('bus-row');
+      const serviceTypeCell = document.createElement('div');
+      serviceTypeCell.classList.add('bus-service-type');
+      serviceTypeCell.textContent = bus.ServiceType;
+      row.appendChild(serviceTypeCell);
+  
+      const departureTimeCell = document.createElement('div');
+      departureTimeCell.classList.add('dept-time-type');
+      departureTimeCell.textContent = bus.DepartureTime;
+      row.appendChild(departureTimeCell);
+  
+      const arrivalTimeCell = document.createElement('div');
+      arrivalTimeCell.classList.add('arr-time-type');
+      arrivalTimeCell.textContent = bus.ArrivalTime;
+      row.appendChild(arrivalTimeCell);
+        // Add event listener to each row
+        row.addEventListener('click', function() {
+            console.log('Row clicked!');
+            // Store routescheduleid in localStorage
+            localStorage.setItem('routescheduleid_staff', bus.RouteScheduleId);
+            localStorage.setItem('from', from);
+            localStorage.setItem('to', to);
+
+            // Redirect to another file
+            window.location.href = "/tracker/staff_profile/";
+        });
+
+        table.appendChild(row);
+    });
+
+    busResults.appendChild(table);
+}

@@ -1,0 +1,229 @@
+*{
+    font-family: "proxima-nova", sans-serif;
+    font-weight: 700;
+  }
+  .main-container{
+    display: flex;
+    flex-direction: row;
+  }
+  .left{
+    width: 50%;
+    background-color:  #d32f2f;
+    height: 100vh;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  .right{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  
+  }
+  .status{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 1rem;
+    width: 70%;
+  }
+  .details{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    color: black;
+    margin-top: 1.7rem;
+    font-size: 1.6rem;
+  }
+  .details input{
+    font-family: "proxima-nova", sans-serif;
+  }
+  input{
+    border: transparent;
+    margin-left: 50px;
+    font-family: "proxima-nova", sans-serif;
+  }
+  .status{
+    margin-top: 3rem;
+  }
+  h1, .details{
+    font-family: 'Montserrat', sans-serif;
+    color: #939393;
+  }
+  .profileHeading{
+    font-size: 3rem;
+    font-weight: bold;
+    color: black;
+    margin-top: 2rem;
+    text-align: center;
+  }
+  .pfp{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5rem;
+    display: flex;
+    border: 1px solid  #d32f2f;
+    background-color: white;
+    border-radius: 50%;
+  }
+  li{
+    color:  #d32f2f;
+  }
+  #signOut{
+    background-color: transparent;
+    text-align: right;
+    color:  #d32f2f;
+    font-family: "proxima-nova", sans-serif;
+    font-size: 1.3rem;
+  }
+  #signOut:hover{
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .left-info{
+    color: white;
+    background-color:  #d32f2f;
+    font-family: "proxima-nova", sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    gap: 1rem;
+    margin-left: 5rem;
+    font-size: 1.4rem;
+    margin-top: 2rem;
+  }
+  .l-info{
+    background-color:  #d32f2f;
+    font-family: "proxima-nova", sans-serif;
+    color: white;
+  }
+  .Username{
+    justify-content: center;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+  }
+  .name-info{
+    text-align: center;
+    background-color:  #d32f2f;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+  }
+  .left-info label{
+    color: white;
+    text-align: center;
+  
+  }
+  
+  /*
+  body {
+    background-color: #026DDF;
+  }
+  
+  .top {
+    background-color: #026DDF;
+    height: 40vh;
+  }
+  
+  .login-box {
+    background-color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+    justify-content: center;
+    text-align: center;
+    height: 190vh;
+  }
+  
+  .contents {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 1rem;
+  }
+  
+  .bottom {
+    background-color: #026DDF;
+  }
+  
+  .transit-text {
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: bold;
+    color: white; 
+    height: 0vh;
+    padding-top: 4%;
+  }
+  
+  label {
+    font-size: 2rem;
+    color: #026DDF;
+    margin-top: 2rem;
+    text-align: left;
+    font-family: 'Montserrat', extra-bold;
+  }
+  
+  .login-box input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 5px;
+    border-bottom: 2px solid #cccccc; 
+    border-radius: 10px;
+    font-family: 'Montserrat', extra-bold;
+  }
+  
+  .butt {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    text-align: center;
+    height: 3rem;
+    width: 70%;
+  }
+  
+  label {
+    font-size: 2rem;
+    color: #026DDF;
+    margin-top: 2rem;
+    text-align: left;
+    font-family: 'Montserrat', extra-bold;
+  }
+  */
+  #email
+  {
+    margin-left: 70px;
+  }
+  #license_number
+  {
+    margin-left: 51px;
+  }
+  #depo
+  {
+    margin-left: 72px;
+  }
+  #bus_id
+  {
+    margin-left: 52px;
+  }
+  #from
+  {
+    margin-left: 75px;
+  }
+  #to
+  {
+    margin-left: 108px;
+  }

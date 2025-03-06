@@ -1,0 +1,52 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KSRTC Tracker</title>
+    <link rel="stylesheet" href="{% static 'index.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet"> <!-- Import Montserrat font -->
+</head>
+<body>
+    <h1 class="title">KSRTC Tracker</h1>
+    <p class="subtitle">real-time bus tracking system</p>
+    <div class="container">
+        <button id="button1">COMMUTER</button>
+        <button id="button2">STAFF</button>
+    </div>
+    <footer class="footer-distributed">
+    
+          <div class="footer-left">
+    
+            <h3>KSRTC Tracker</h3>
+            <p class="footer-company-name">KSRTC Tracker © 2025</p>
+          </div>
+    
+          <div class="footer-center">
+    
+            <div>
+              <i class="fa fa-map-marker"></i>
+              <p><span>Pappanamcode, Trivandrum, Kerala</span></p>
+            </div>
+            <div>
+              <i class="Contact"></i>
+              <p><span>+91 9400122319</span></p>
+            </div>
+            <div>
+              <i class="fa fa-envelope"></i>
+              <p><span>ksrtctracker@gmail.com</span></p>
+            </div>
+          </div>
+          <div class="footer-right">
+            <h2 class="About">About</h2>
+            <p class="footer-company-about">
+              A real-time bus tracking platform which aims to make commuting effiecient and smart.
+            </p>
+          </div>
+        </footer>
+    <script src="{% static 'js/index.js' %}" defer></script>
+    
+</body>
+</html>

@@ -1,0 +1,4094 @@
+{
+    "Kazhakkoottam": {
+        "latitude": 8.5660255,
+        "longitude": 76.8737867
+    },
+    "Pothencode": {
+        "latitude": 8.6184233,
+        "longitude": 76.8976931
+    },
+    "Ulloor": {
+        "latitude": 8.5300054,
+        "longitude": 76.928621
+    },
+    "Peroorkada Depot": {
+        "latitude": 8.5347086,
+        "longitude": 76.9675333
+    },
+    "Nedumangad Bus Stand": {
+        "latitude": 8.752773930991108,
+        "longitude": 76.94014568599381
+    },
+    "Sreekaryam Junction": {
+        "latitude": 8.5488526,
+        "longitude": 76.9172852
+    },
+    "East Fort Bus Stand": {
+        "latitude": 9.9287377,
+        "longitude": 76.3907088
+    },
+    "Attingal Bus Station": {
+        "latitude": 8.6955274,
+        "longitude": 76.81738899386528
+    },
+    "Murinjapalam": {
+        "latitude": 8.515912,
+        "longitude": 76.9344332
+    },
+    "Thiruvallam": {
+        "latitude": 8.441148,
+        "longitude": 76.9561921
+    },
+    "Kaniyapuram": {
+        "latitude": 8.5876645,
+        "longitude": 76.8560703
+    },
+    "Pattoor Junction": {
+        "latitude": 8.4978094,
+        "longitude": 76.9377033
+    },
+    "Vellayambalam": {
+        "latitude": 8.511472,
+        "longitude": 76.9622965
+    },
+    "Kuzhivila": {
+        "latitude": 8.5228415,
+        "longitude": 76.8902073
+    },
+    "Valiyavila": {
+        "latitude": 8.5067738,
+        "longitude": 76.9989452
+    },
+    "Kamaleswaram": {
+        "latitude": 8.4670099,
+        "longitude": 76.9473491
+    },
+    "Peroorkada Junction": {
+        "latitude": 8.5369849,
+        "longitude": 76.9665122
+    },
+    "Statue Bsnl": {
+        "latitude": 8.4966894,
+        "longitude": 76.9482789
+    },
+    "Sn Nagar": {
+        "latitude": 10.3248518,
+        "longitude": 76.20584853737324
+    },
+    "Vembayam": {
+        "latitude": 8.6365921,
+        "longitude": 76.9382323
+    },
+    "Neyyattinkara Bus Station": {
+        "latitude": 8.3974066,
+        "longitude": 77.0880245
+    },
+    "Maruthankuzhi": {
+        "latitude": 8.5129415,
+        "longitude": 76.9780878
+    },
+    "Vandithadam": {
+        "latitude": 8.4307211,
+        "longitude": 76.9704247
+    },
+    "Kanjirampara": {
+        "latitude": 8.90377505,
+        "longitude": 76.77631078061992
+    },
+    "Palayam Fine Arts College": {
+        "latitude": 8.5050876,
+        "longitude": 76.9515245
+    },
+    "Nalanchira Main Gate": {
+        "latitude": 8.5425158,
+        "longitude": 76.9416851
+    },
+    "Kumarapuram": {
+        "latitude": 8.5146047,
+        "longitude": 76.9278145
+    },
+    "Kowdiar": {
+        "latitude": 8.5222606,
+        "longitude": 76.9605163
+    },
+    "Thampanoor Ktdc Chaithram": {
+        "latitude": 8.4879699,
+        "longitude": 76.95006
+    },
+    "Chenkottukonam": {
+        "latitude": 8.5823953,
+        "longitude": 76.9030474
+    },
+    "Balaramapuram": {
+        "latitude": 8.4247979,
+        "longitude": 77.0457835
+    },
+    "Chirayinkeezhu Bus Stand": {
+        "latitude": 8.694916599999999,
+        "longitude": 76.81859943793987
+    },
+    "Mannanthala": {
+        "latitude": 8.5606753,
+        "longitude": 76.9433771
+    },
+    "Chempazhanthy": {
+        "latitude": 8.58342418403096,
+        "longitude": 76.90238010555564
+    },
+    "Mettukada": {
+        "latitude": 8.490181,
+        "longitude": 76.9584493
+    },
+    "Kattakkada": {
+        "latitude": 8.5542509,
+        "longitude": 77.18554451838283
+    },
+    "Pappanamcode": {
+        "latitude": 8.4702552,
+        "longitude": 76.9818151
+    },
+    "Kulathoor": {
+        "latitude": 8.5372683,
+        "longitude": 76.8801999
+    },
+    "Mangalapuram": {
+        "latitude": 10.8939429,
+        "longitude": 79.4292906
+    },
+    "Murukkumpuzha": {
+        "latitude": 8.616553249999999,
+        "longitude": 76.82883452858036
+    },
+    "Pangappara": {
+        "latitude": 8.55637265,
+        "longitude": 76.90439332488944
+    },
+    "Poovar Bus Stand": {
+        "latitude": 8.3976294,
+        "longitude": 77.08799458872875
+    },
+    "Venganoor": {
+        "latitude": 8.3964587,
+        "longitude": 77.0039878
+    },
+    "Jagathy": {
+        "latitude": 8.4945483,
+        "longitude": 76.9641003
+    },
+    "Kumarichantha": {
+        "latitude": 8.449520849999999,
+        "longitude": 76.9487431
+    },
+    "Medical College Bus Stand": {
+        "latitude": 9.6322151,
+        "longitude": 76.52155969122603
+    },
+    "Medical College Thiruvananthapuram": {
+        "latitude": 8.5209794,
+        "longitude": 76.9226146
+    },
+    "Pattoor": {
+        "latitude": 8.4985414,
+        "longitude": 76.9357106
+    },
+    "Karyavattom University": {
+        "latitude": 8.56002775,
+        "longitude": 76.88834373124564
+    },
+    "Vattappara": {
+        "latitude": 8.5925816,
+        "longitude": 76.9529529
+    },
+    "Poonthura Junction": {
+        "latitude": 8.4435903,
+        "longitude": 76.9440132
+    },
+    "Pmg": {
+        "latitude": 8.5093458,
+        "longitude": 76.9491531
+    },
+    "Kattayikonam": {
+        "latitude": 8.6102140856223,
+        "longitude": 76.8963555330897
+    },
+    "Thampanoor Railway Station": {
+        "latitude": 8.4871867,
+        "longitude": 76.952759
+    },
+    "Kiliyoor": {
+        "latitude": 8.25877545,
+        "longitude": 77.20970959157259
+    },
+    "Nettayam": {
+        "latitude": 8.5420235,
+        "longitude": 76.9888936
+    },
+    "Kovalam Beach": {
+        "latitude": 8.3950997,
+        "longitude": 76.9729934
+    },
+    "Rcc Thiruvananthapuram": {
+        "latitude": 8.5206614,
+        "longitude": 76.9245217
+    },
+    "Vayalikada": {
+        "latitude": 8.5330889,
+        "longitude": 77.0008484
+    },
+    "Kallara Bus Stand": {
+        "latitude": 8.752773930991108,
+        "longitude": 76.94014568599381
+    },
+    "Kallumoodu": {
+        "latitude": 8.4696192,
+        "longitude": 76.9358568
+    },
+    "Nemom": {
+        "latitude": 8.4538721,
+        "longitude": 77.0104923
+    },
+    "Kesavadasapuram": {
+        "latitude": 8.5297091,
+        "longitude": 76.9384033
+    },
+    "Kerala University": {
+        "latitude": 8.5024973,
+        "longitude": 76.9481
+    },
+    "Vettukadu": {
+        "latitude": 8.4945184,
+        "longitude": 76.9014215
+    },
+    "Valiyathura": {
+        "latitude": 8.4645301,
+        "longitude": 76.926924
+    },
+    "Perumkuzhi": {
+        "latitude": 8.6966388,
+        "longitude": 76.8166527
+    },
+    "Paippinmoodu": {
+        "latitude": 8.5187488,
+        "longitude": 76.9723291
+    },
+    "Lms Corporation Office": {
+        "latitude": 8.5072747,
+        "longitude": 76.9521051
+    },
+    "Kovalam Junction": {
+        "latitude": 8.3989014,
+        "longitude": 76.9819979
+    },
+    "Kadinamkulam": {
+        "latitude": 8.586423100000001,
+        "longitude": 76.83318445477497
+    },
+    "Puliyarakkonam": {
+        "latitude": 8.562125949999999,
+        "longitude": 76.92286470833332
+    },
+    "Vellaikadavu": {
+        "latitude": 8.5322287,
+        "longitude": 77.0104486
+    },
+    "Malayinkeezh": {
+        "latitude": 8.4901972,
+        "longitude": 77.0378323
+    },
+    "Kanjiramkulam": {
+        "latitude": 8.3601022,
+        "longitude": 77.0525935
+    },
+    "Konchira": {
+        "latitude": 10.5163683,
+        "longitude": 76.09894615496353
+    },
+    "Vedivechan Kovil": {
+        "latitude": 8.432796100000001,
+        "longitude": 77.02930785364745
+    },
+    "Peroorkada": {
+        "latitude": 8.5397938,
+        "longitude": 76.96566096672333
+    },
+    "Nellimoodu Junction": {
+        "latitude": 8.3790519,
+        "longitude": 77.0464392
+    },
+    "Veli Lake": {
+        "latitude": 8.521116182310596,
+        "longitude": 76.90151702027624
+    },
+    "Perumathura": {
+        "latitude": 8.6222896,
+        "longitude": 76.7970046
+    },
+    "Ambalamukku": {
+        "latitude": 9.5717015,
+        "longitude": 76.3385226
+    },
+    "Karette": {
+        "latitude": 8.7309363,
+        "longitude": 76.8981382
+    },
+    "Chittazha": {
+        "latitude": 8.5806024,
+        "longitude": 76.9451917
+    },
+    "Aruvikkara": {
+        "latitude": 8.5711019,
+        "longitude": 77.0158607
+    },
+    "Pachalloor School": {
+        "latitude": 8.4233715,
+        "longitude": 76.96731377809556
+    },
+    "Vazhamuttom": {
+        "latitude": 9.2346691,
+        "longitude": 76.7785576
+    },
+    "Vavarambalam": {
+        "latitude": 8.635045931505863,
+        "longitude": 76.87566641566559
+    },
+    "Kuttimoodu": {
+        "latitude": 8.7470762,
+        "longitude": 76.9210696
+    },
+    "Aryanadu": {
+        "latitude": 8.522609095915472,
+        "longitude": 77.08586273579604
+    },
+    "Mudavanmugal": {
+        "latitude": 8.4878704,
+        "longitude": 76.9824618
+    },
+    "Vettinadu": {
+        "latitude": 8.604167499999999,
+        "longitude": 76.94229830192495
+    },
+    "Sasthamangalam": {
+        "latitude": 8.5128328,
+        "longitude": 76.9720602
+    },
+    "Valiyarathala": {
+        "latitude": 8.4610067,
+        "longitude": 77.0416031
+    },
+    "Muthuvila": {
+        "latitude": 8.7129188,
+        "longitude": 76.9674458
+    },
+    "Dpi Junction": {
+        "latitude": 8.4955929,
+        "longitude": 76.9627381
+    },
+    "Chanthavila": {
+        "latitude": 8.6741,
+        "longitude": 77.0895764
+    },
+    "Mottamoodu": {
+        "latitude": 8.444861593066294,
+        "longitude": 77.02443210743964
+    },
+    "Koithoorkonam": {
+        "latitude": 8.618613115322386,
+        "longitude": 76.86904555679935
+    },
+    "Thannimoodu": {
+        "latitude": 9.8291548,
+        "longitude": 77.1706588
+    },
+    "Kallayam": {
+        "latitude": 8.58324615475492,
+        "longitude": 76.95893229755652
+    },
+    "Kulasekharam": {
+        "latitude": 8.525367589530726,
+        "longitude": 77.00329428778771
+    },
+    "Mylamoodu": {
+        "latitude": 8.869658455495738,
+        "longitude": 77.03921471577436
+    },
+    "Vellanchira": {
+        "latitude": 10.1451069,
+        "longitude": 76.5526126
+    },
+    "Athiyanoor": {
+        "latitude": 8.3712731,
+        "longitude": 77.0281052
+    },
+    "Jts Mancha": {
+        "latitude": 8.5941565,
+        "longitude": 77.011292
+    },
+    "Peyad": {
+        "latitude": 8.5146722,
+        "longitude": 77.0199066
+    },
+    "Karakulam Palam": {
+        "latitude": 8.5641445,
+        "longitude": 76.9848343
+    },
+    "Anayara": {
+        "latitude": 8.5092537,
+        "longitude": 76.9167684
+    },
+    "Pamamcode": {
+        "latitude": 8.48149615,
+        "longitude": 77.13641091866646
+    },
+    "Seemamulamukku": {
+        "latitude": 8.5937574,
+        "longitude": 76.9606317
+    },
+    "Pirappancode": {
+        "latitude": 8.65805035,
+        "longitude": 76.91829231643632
+    },
+    "Valiyashala Mahadeva Temple": {
+        "latitude": 8.4838166,
+        "longitude": 76.9599802
+    },
+    "Museum Public Office Complex": {
+        "latitude": 8.5080028,
+        "longitude": 76.954998
+    },
+    "Paraniyam": {
+        "latitude": 8.3393436,
+        "longitude": 77.0635134
+    },
+    "Anchamkallu": {
+        "latitude": 10.4652047,
+        "longitude": 76.2105202
+    },
+    "Mukkola": {
+        "latitude": 8.3835523,
+        "longitude": 77.0044076
+    },
+    "Kodunganoor": {
+        "latitude": 8.5181987,
+        "longitude": 77.00272900635699
+    },
+    "Puthukurichy Church": {
+        "latitude": 8.61672645,
+        "longitude": 76.80196500208334
+    },
+    "Ooruttambalam": {
+        "latitude": 8.4350001,
+        "longitude": 77.052758
+    },
+    "Maruthoorkadavu": {
+        "latitude": 8.4620595,
+        "longitude": 76.9708584
+    },
+    "Thoongampara": {
+        "latitude": 8.4928176,
+        "longitude": 77.0955296
+    },
+    "Malayam": {
+        "latitude": 8.578242,
+        "longitude": 76.9940056
+    },
+    "Koliyacode": {
+        "latitude": 8.46936445,
+        "longitude": 76.99861834973633
+    },
+    "Irinchayam": {
+        "latitude": 8.6231813,
+        "longitude": 76.9709611
+    },
+    "Kochuveli Railway Station": {
+        "latitude": 8.5103341,
+        "longitude": 76.8970471
+    },
+    "Vazhuthacaud Womens College": {
+        "latitude": 8.4981606,
+        "longitude": 76.9576916
+    },
+    "Mukkolakkal": {
+        "latitude": 8.5638878,
+        "longitude": 76.9528409
+    },
+    "Kollamkonam": {
+        "latitude": 8.5216959,
+        "longitude": 77.0299231
+    },
+    "Poundukadavu": {
+        "latitude": 8.5266946,
+        "longitude": 76.8838005
+    },
+    "Karyavattom": {
+        "latitude": 8.5673909,
+        "longitude": 76.8909514
+    },
+    "Padinjattumukku": {
+        "latitude": 8.5802846,
+        "longitude": 76.8475382
+    },
+    "Velavoor": {
+        "latitude": 8.6536649,
+        "longitude": 76.9086739
+    },
+    "Kavinpuram": {
+        "latitude": 8.5322,
+        "longitude": 77.026211
+    },
+    "Vikas Bhavan Depot": {
+        "latitude": 8.5085586,
+        "longitude": 76.9469661
+    },
+    "Chowalloor": {
+        "latitude": 10.611697249999999,
+        "longitude": 76.06713291680462
+    },
+    "Kuttichal": {
+        "latitude": 8.5672093,
+        "longitude": 77.1014928
+    },
+    "Pallichal Junction": {
+        "latitude": 8.4418326,
+        "longitude": 77.0181338
+    },
+    "Kuttiyani": {
+        "latitude": 8.5937851,
+        "longitude": 76.9370925
+    },
+    "Ksrtc Bus Stand Kilimanoor": {
+        "latitude": 8.774760449999999,
+        "longitude": 76.8806288723542
+    },
+    "Uchakkada": {
+        "latitude": 8.3160084,
+        "longitude": 77.0972335
+    },
+    "Moozhi": {
+        "latitude": 9.9349134,
+        "longitude": 76.5989777
+    },
+    "Pongumoodu": {
+        "latitude": 8.5404186,
+        "longitude": 76.9242141
+    },
+    "Fathima Thumba": {
+        "latitude": 8.55260375,
+        "longitude": 76.85359035
+    },
+    "Chiramukku": {
+        "latitude": 8.4667054,
+        "longitude": 76.9546854
+    },
+    "Kaliyakkavilai Bus Stand": {
+        "latitude": 8.3976294,
+        "longitude": 77.08799458872875
+    },
+    "Pettah Railway Station": {
+        "latitude": 9.9524963,
+        "longitude": 76.3301852
+    },
+    "Karakonam": {
+        "latitude": 8.3885859,
+        "longitude": 77.1710927
+    },
+    "Vettuthura": {
+        "latitude": 8.5868876,
+        "longitude": 76.8259349
+    },
+    "Paruthikuzhi": {
+        "latitude": 8.4573727,
+        "longitude": 76.9423331
+    },
+    "Maranalloor": {
+        "latitude": 8.46527825,
+        "longitude": 77.07206033701213
+    },
+    "Pettah Pallimukku": {
+        "latitude": 8.4968262,
+        "longitude": 76.9324351
+    },
+    "Palayam Saphalyam": {
+        "latitude": 8.5019806,
+        "longitude": 76.95105735624935
+    },
+    "Koppam": {
+        "latitude": 10.8654122,
+        "longitude": 76.1866812
+    },
+    "Arappura": {
+        "latitude": 8.900344,
+        "longitude": 76.8314206
+    },
+    "Andoorkonam Hospital": {
+        "latitude": 8.6028715,
+        "longitude": 76.87734066070271
+    },
+    "Thirumala": {
+        "latitude": 8.5018495,
+        "longitude": 76.9920046
+    },
+    "Fort Hospital": {
+        "latitude": 8.4844574,
+        "longitude": 76.9418697
+    },
+    "Nannattukavu": {
+        "latitude": 8.62739505,
+        "longitude": 76.90805091781887
+    },
+    "Kalliyoor": {
+        "latitude": 8.4341787,
+        "longitude": 76.99537481083503
+    },
+    "Parassala": {
+        "latitude": 8.3428993,
+        "longitude": 77.1547766
+    },
+    "Neeramankara": {
+        "latitude": 8.4764855,
+        "longitude": 76.9732048
+    },
+    "Pappanamcode Ksrtc Depot": {
+        "latitude": 8.4711652,
+        "longitude": 76.98186882230058
+    },
+    "Karikkakom Temple": {
+        "latitude": 8.505003299999998,
+        "longitude": 76.90408192972436
+    },
+    "Civil Station Kudappanakunnu": {
+        "latitude": 8.5499375,
+        "longitude": 76.9608163
+    },
+    "Eliyavoor": {
+        "latitude": 8.5862342,
+        "longitude": 77.0599066
+    },
+    "Muttada": {
+        "latitude": 8.5354772,
+        "longitude": 76.9444757
+    },
+    "Vengode": {
+        "latitude": 8.6561024,
+        "longitude": 76.8672765
+    },
+    "Ambalathara": {
+        "latitude": 8.4510209,
+        "longitude": 76.9517559
+    },
+    "Law College Junction Kunnukuzhy": {
+        "latitude": 8.5088969,
+        "longitude": 76.9449833
+    },
+    "Kochupally": {
+        "latitude": 8.3904048,
+        "longitude": 77.0675179
+    },
+    "Paruthippara": {
+        "latitude": 8.5346741,
+        "longitude": 76.9426202
+    },
+    "Thozhukkal": {
+        "latitude": 8.4160078,
+        "longitude": 77.0858686
+    },
+    "Thampanoor-railway Station": {
+        "latitude": 8.4871867,
+        "longitude": 76.952759
+    },
+    "Charummoodu": {
+        "latitude": 9.1735496,
+        "longitude": 76.6083688
+    },
+    "Vizhinjam Harbour": {
+        "latitude": 8.3784733,
+        "longitude": 76.9911882
+    },
+    "Plavila": {
+        "latitude": 8.4104182,
+        "longitude": 77.0515408
+    },
+    "Chappath": {
+        "latitude": 9.66382405,
+        "longitude": 77.02768077622608
+    },
+    "Kunnapuzha": {
+        "latitude": 8.4888046,
+        "longitude": 76.9980969
+    },
+    "Nilamamoodu": {
+        "latitude": 8.4054395,
+        "longitude": 77.1827782
+    },
+    "Thachottukavu": {
+        "latitude": 8.5081293,
+        "longitude": 77.0261513
+    },
+    "Vazhuthacaud Kalabhavan Theatre": {
+        "latitude": 8.499565749999999,
+        "longitude": 76.95797424129158
+    },
+    "Panachamoodu": {
+        "latitude": 8.4278802,
+        "longitude": 77.1955104
+    },
+    "Mukkolakkal Temple": {
+        "latitude": 8.4734772,
+        "longitude": 76.942532
+    },
+    "Pachalloor": {
+        "latitude": 8.42595095,
+        "longitude": 76.9626076436708
+    },
+    "Kachani": {
+        "latitude": 8.555171,
+        "longitude": 76.9948845
+    },
+    "Dhanuvachapuram Iti": {
+        "latitude": 8.358920999999999,
+        "longitude": 77.11469141217708
+    },
+    "Nehru Junction": {
+        "latitude": 9.5251901,
+        "longitude": 76.331771
+    },
+    "Palayam Bakery Junction": {
+        "latitude": 8.5032445,
+        "longitude": 76.9526044
+    },
+    "Nalamkallu": {
+        "latitude": 10.504062099999999,
+        "longitude": 76.15381397898103
+    },
+    "Killipalam": {
+        "latitude": 8.4794446,
+        "longitude": 76.9596981
+    },
+    "Oruvathilkotta": {
+        "latitude": 8.5152986,
+        "longitude": 76.903055
+    },
+    "Keezhayikonam": {
+        "latitude": 8.6977042,
+        "longitude": 76.900929
+    },
+    "Poovachal": {
+        "latitude": 8.52948845,
+        "longitude": 77.092601128089
+    },
+    "Kallambalam": {
+        "latitude": 8.7629298,
+        "longitude": 76.7919242
+    },
+    "Vattiyoorkavu": {
+        "latitude": 8.5294947,
+        "longitude": 76.98639815125
+    },
+    "Mullassery": {
+        "latitude": 10.54684305,
+        "longitude": 76.10047189132199
+    },
+    "Anthiyoorkonam": {
+        "latitude": 8.49080395,
+        "longitude": 77.05181801554048
+    },
+    "Kuravankonam": {
+        "latitude": 8.5245103,
+        "longitude": 76.9540027
+    },
+    "Pullikonam": {
+        "latitude": 8.48443325,
+        "longitude": 77.13154358808082
+    },
+    "Sasthavattom": {
+        "latitude": 9.4412241,
+        "longitude": 76.5397502
+    },
+    "Peringammala": {
+        "latitude": 8.7513772,
+        "longitude": 76.9705147
+    },
+    "Enikkara": {
+        "latitude": 8.5606091,
+        "longitude": 76.9796758
+    },
+    "Mangattukadavu": {
+        "latitude": 8.4963251,
+        "longitude": 77.0034599
+    },
+    "Manacaud": {
+        "latitude": 8.4752047,
+        "longitude": 76.9479205
+    },
+    "Avanavanchery": {
+        "latitude": 8.6932795,
+        "longitude": 76.8365818
+    },
+    "Azhimala Temple": {
+        "latitude": 8.3567192,
+        "longitude": 77.0114384
+    },
+    "Sreenarayanapuram": {
+        "latitude": 9.7217619,
+        "longitude": 76.3530596
+    },
+    "Santhivila Up School": {
+        "latitude": 8.45315205,
+        "longitude": 76.999762183104
+    },
+    "Pulimood": {
+        "latitude": 9.58848055,
+        "longitude": 76.52153615492014
+    },
+    "Pallimukku": {
+        "latitude": 9.9648708,
+        "longitude": 76.28541944188333
+    },
+    "Kolichira": {
+        "latitude": 8.6474813,
+        "longitude": 76.7992293
+    },
+    "Thampanoor Rms": {
+        "latitude": 8.487765,
+        "longitude": 76.9501666
+    },
+    "Nilamel": {
+        "latitude": 8.8234714,
+        "longitude": 76.8823652
+    },
+    "Muttappalam Junction": {
+        "latitude": 8.6455033,
+        "longitude": 76.814529
+    },
+    "Perekonam": {
+        "latitude": 8.511045750000001,
+        "longitude": 77.1472873289415
+    },
+    "Ayoor": {
+        "latitude": 8.8978612,
+        "longitude": 76.8601206
+    },
+    "Powdikonam": {
+        "latitude": 8.566711,
+        "longitude": 76.9338076
+    },
+    "Aruvippuram": {
+        "latitude": 8.4292769,
+        "longitude": 77.0838662
+    },
+    "Mannanthala Junction": {
+        "latitude": 8.56056460468324,
+        "longitude": 76.94341496685458
+    },
+    "Santhivila": {
+        "latitude": 8.45315205,
+        "longitude": 76.999762183104
+    },
+    "Vavarambalam A": {
+        "latitude": 8.6351337,
+        "longitude": 76.8755883
+    },
+    "Ariyottukonam": {
+        "latitude": 8.61175035,
+        "longitude": 76.88885616946605
+    },
+    "Punnakkamugal": {
+        "latitude": 8.4928969,
+        "longitude": 76.9916223
+    },
+    "Aruvikkarakonam": {
+        "latitude": 8.6031797,
+        "longitude": 76.919850911509
+    },
+    "Cheruvallimukku": {
+        "latitude": 8.6774052,
+        "longitude": 76.8030636
+    },
+    "Karakulam Panchayath": {
+        "latitude": 8.5622213,
+        "longitude": 76.9832163
+    },
+    "Pattom Lic": {
+        "latitude": 8.5240431,
+        "longitude": 76.9403597
+    },
+    "Cheriyakolla": {
+        "latitude": 8.4112395,
+        "longitude": 77.1890965
+    },
+    "Ponnara School": {
+        "latitude": 8.4685912,
+        "longitude": 76.9340649
+    },
+    "Kunnumpuram Junction": {
+        "latitude": 8.4910803,
+        "longitude": 76.9442444
+    },
+    "Ayurveda College": {
+        "latitude": 8.4914955,
+        "longitude": 76.9472685
+    },
+    "Cheeranikkara": {
+        "latitude": 8.6413494,
+        "longitude": 76.9526139
+    },
+    "Ponnara Bridge": {
+        "latitude": 8.4679824,
+        "longitude": 76.9329415
+    },
+    "Technopark Back Gate": {
+        "latitude": 8.5579852,
+        "longitude": 76.8833542
+    },
+    "Parippally": {
+        "latitude": 8.8126644,
+        "longitude": 76.7584102
+    },
+    "Vencode": {
+        "latitude": 8.79015355,
+        "longitude": 76.74853319101982
+    },
+    "Muttukonam": {
+        "latitude": 8.60921795,
+        "longitude": 76.89808005387613
+    },
+    "Pravachambalam": {
+        "latitude": 8.4486945,
+        "longitude": 77.0123907
+    },
+    "Pullanivila": {
+        "latitude": 8.5883089,
+        "longitude": 76.8927825
+    },
+    "Alamcode": {
+        "latitude": 8.7199176,
+        "longitude": 76.8133694
+    },
+    "Porunthamon": {
+        "latitude": 8.7583761,
+        "longitude": 76.8972601
+    },
+    "Karakulam Keltron Junction": {
+        "latitude": 8.5696984,
+        "longitude": 76.9900937
+    },
+    "Vellayani Junction": {
+        "latitude": 8.4580095,
+        "longitude": 76.9993551
+    },
+    "Nettirachira": {
+        "latitude": 8.598123,
+        "longitude": 77.0174973
+    },
+    "Parottukonam": {
+        "latitude": 8.5375762,
+        "longitude": 76.93590914340353
+    },
+    "Karakulam Post": {
+        "latitude": 8.559860350000001,
+        "longitude": 76.97878235674618
+    },
+    "8th Stone": {
+        "latitude": 8.5695593,
+        "longitude": 76.9901099
+    },
+    "Balaji Nagar": {
+        "latitude": 9.8837976,
+        "longitude": 78.0630111
+    },
+    "Pallivila": {
+        "latitude": 8.5887721,
+        "longitude": 76.9486282
+    },
+    "Vellayani Temple": {
+        "latitude": 8.44543855,
+        "longitude": 76.9916988
+    },
+    "Plathara": {
+        "latitude": 8.5817088,
+        "longitude": 76.9706824
+    },
+    "Karamana Prs": {
+        "latitude": 8.4813163,
+        "longitude": 76.9593213
+    },
+    "Nedumangad": {
+        "latitude": 8.69703865,
+        "longitude": 77.04245410922746
+    },
+    "Karatte 1": {
+        "latitude": 8.7347724,
+        "longitude": 76.8504179
+    },
+    "East Fort": {
+        "latitude": 8.4835572,
+        "longitude": 76.94746061661407
+    },
+    "Sk Hospital": {
+        "latitude": 8.5055336,
+        "longitude": 76.97108800241998
+    },
+    "Plamoodu": {
+        "latitude": 9.7440042,
+        "longitude": 77.0972261
+    },
+    "Varkala Railway Station": {
+        "latitude": 8.7406369,
+        "longitude": 76.723134
+    },
+    "Santhivila Junction": {
+        "latitude": 8.45315205,
+        "longitude": 76.999762183104
+    },
+    "Survey Directorate": {
+        "latitude": 8.5017219,
+        "longitude": 76.9603369
+    },
+    "Parandode": {
+        "latitude": 8.585732,
+        "longitude": 77.0892949
+    },
+    "Ottasekharamangalam": {
+        "latitude": 8.4768202,
+        "longitude": 77.1350936
+    },
+    "Pattom Sut Hospital": {
+        "latitude": 8.5183101,
+        "longitude": 76.9416983
+    },
+    "Keraladithyapuram": {
+        "latitude": 9.7106212,
+        "longitude": 76.3370984
+    },
+    "Thottumukku": {
+        "latitude": 8.6529672,
+        "longitude": 77.0700652
+    },
+    "Manjamala": {
+        "latitude": 8.644229750000001,
+        "longitude": 76.86817256605278
+    },
+    "Sreekariyam": {
+        "latitude": 8.5489489,
+        "longitude": 76.9171867
+    },
+    "Moongodu": {
+        "latitude": 8.5024977,
+        "longitude": 77.0422071
+    },
+    "Valiyathura Iti": {
+        "latitude": 8.4900465,
+        "longitude": 76.9162299
+    },
+    "Ozhukupara": {
+        "latitude": 8.5945042,
+        "longitude": 76.939818
+    },
+    "Mannarakonam": {
+        "latitude": 8.5288763,
+        "longitude": 76.9898222
+    },
+    "Thattathumala": {
+        "latitude": 8.800215,
+        "longitude": 76.8805378
+    },
+    "Kakkamoola": {
+        "latitude": 8.4298433,
+        "longitude": 77.0098713
+    },
+    "Vellarada": {
+        "latitude": 8.4557164,
+        "longitude": 77.1953476
+    },
+    "Kottamukal": {
+        "latitude": 9.14599025,
+        "longitude": 76.75008902280231
+    },
+    "Gokulam Medical College": {
+        "latitude": 8.69200105,
+        "longitude": 76.9158634144219
+    },
+    "Enchakkal": {
+        "latitude": 8.4787442,
+        "longitude": 76.9374966
+    },
+    "Kottiyam": {
+        "latitude": 8.8660329,
+        "longitude": 76.6709479
+    },
+    "Vizhinjam Junction": {
+        "latitude": 8.38267,
+        "longitude": 76.9918354
+    },
+    "Aryanad": {
+        "latitude": 8.5795655,
+        "longitude": 77.0843942
+    },
+    "Anchuthengu": {
+        "latitude": 8.6628906,
+        "longitude": 76.7634487
+    },
+    "Model School Thycaud": {
+        "latitude": 8.4939347,
+        "longitude": 76.9538847
+    },
+    "Mannamoola": {
+        "latitude": 8.5316899,
+        "longitude": 76.9779539
+    },
+    "Palukal": {
+        "latitude": 8.3656058,
+        "longitude": 77.1670456
+    },
+    "Chemboor": {
+        "latitude": 8.471952949999999,
+        "longitude": 77.15832126286685
+    },
+    "Thottakkade": {
+        "latitude": 11.14811905,
+        "longitude": 76.07191333345989
+    },
+    "Konkalam": {
+        "latitude": 8.486628,
+        "longitude": 76.9917105133627
+    },
+    "Venkulam": {
+        "latitude": 11.0576707,
+        "longitude": 76.00999479669477
+    },
+    "Poojappura": {
+        "latitude": 8.4898455,
+        "longitude": 76.9736018
+    },
+    "Perumkadavila": {
+        "latitude": 8.44177,
+        "longitude": 77.1115347
+    },
+    "Akkulam Boat Club": {
+        "latitude": 8.5209214,
+        "longitude": 76.90589090540541
+    },
+    "Kallikadu A": {
+        "latitude": 10.4196146,
+        "longitude": 79.3673088
+    },
+    "Pottanchira": {
+        "latitude": 8.7964094,
+        "longitude": 76.83710149999766
+    },
+    "Vellayani": {
+        "latitude": 8.4456828,
+        "longitude": 76.9922304
+    },
+    "Ulloor A": {
+        "latitude": 8.5297886,
+        "longitude": 76.9298905
+    },
+    "Nanthancode": {
+        "latitude": 8.5150529,
+        "longitude": 76.9550726
+    },
+    "Konchiravila Temple": {
+        "latitude": 8.46217835,
+        "longitude": 76.9561220107877
+    },
+    "Ptp Nagar": {
+        "latitude": 8.5128474,
+        "longitude": 76.9877377
+    },
+    "Mangalathukonam": {
+        "latitude": 8.409127,
+        "longitude": 77.0355592
+    },
+    "Mangattukonam": {
+        "latitude": 8.5874009,
+        "longitude": 76.8776192
+    },
+    "Puthiyathura": {
+        "latitude": 8.3298799,
+        "longitude": 77.0515102
+    },
+    "Poojapura Junction": {
+        "latitude": 8.4928502,
+        "longitude": 76.9746907
+    },
+    "Pallichal": {
+        "latitude": 8.4416925,
+        "longitude": 77.0189881
+    },
+    "Neyyattinkara": {
+        "latitude": 8.38584295,
+        "longitude": 77.06504294867422
+    },
+    "Kuriyodu": {
+        "latitude": 8.8540066,
+        "longitude": 76.86932146100638
+    },
+    "Erappukuzhi": {
+        "latitude": 8.5580996,
+        "longitude": 76.9605685
+    },
+    "Mandapathinkadavu": {
+        "latitude": 8.49426955,
+        "longitude": 77.12736504282232
+    },
+    "Kudappanakunnu": {
+        "latitude": 8.5506773,
+        "longitude": 76.95676688731885
+    },
+    "Gandhipuram": {
+        "latitude": 11.0182714,
+        "longitude": 76.9677744
+    },
+    "Seemamula Mukku": {
+        "latitude": 8.5951667,
+        "longitude": 76.9593198
+    },
+    "Keezharoor": {
+        "latitude": 8.460619,
+        "longitude": 77.1140241
+    },
+    "Sasthamkonam": {
+        "latitude": 8.54233455,
+        "longitude": 77.09042845508547
+    },
+    "Amboori": {
+        "latitude": 8.5016585,
+        "longitude": 77.1910541
+    },
+    "Bangladesh Colony": {
+        "latitude": 8.466881,
+        "longitude": 76.9304395
+    },
+    "Easwara Vilasam Cotton Hill": {
+        "latitude": 8.5021245,
+        "longitude": 76.9638366
+    },
+    "Kavadithalakkal": {
+        "latitude": 8.5488849,
+        "longitude": 76.978397
+    },
+    "Pettah": {
+        "latitude": 9.9524963,
+        "longitude": 76.3301852
+    },
+    "Santhigiri Ashram": {
+        "latitude": 8.6323185,
+        "longitude": 76.89794358122603
+    },
+    "Kalady School": {
+        "latitude": 8.4667063,
+        "longitude": 76.96402074985261
+    },
+    "Pakaloor": {
+        "latitude": 8.4392571,
+        "longitude": 77.0151664
+    },
+    "Government Eye Hospital": {
+        "latitude": 8.4991588,
+        "longitude": 76.9410677
+    },
+    "Vazhichal": {
+        "latitude": 10.257717750000001,
+        "longitude": 76.36115191488142
+    },
+    "Nellivila School": {
+        "latitude": 8.41231535,
+        "longitude": 77.00839099777252
+    },
+    "Venpalavattom": {
+        "latitude": 8.5080937,
+        "longitude": 76.9083254
+    },
+    "Kaipadi": {
+        "latitude": 8.5831604,
+        "longitude": 76.9792149
+    },
+    "Vazhuthacaud": {
+        "latitude": 8.5017399,
+        "longitude": 76.9595706
+    },
+    "Karamana": {
+        "latitude": 8.4817066,
+        "longitude": 76.9663027
+    },
+    "Kims Venpalavattom": {
+        "latitude": 8.513656950000001,
+        "longitude": 76.90932211325705
+    },
+    "Palathara": {
+        "latitude": 10.7040059,
+        "longitude": 76.51323190537042
+    },
+    "Aryancode": {
+        "latitude": 8.46383505,
+        "longitude": 77.12778669355865
+    },
+    "Mannamkonam": {
+        "latitude": 8.4626799,
+        "longitude": 77.1603758
+    },
+    "Njekkad": {
+        "latitude": 8.760425,
+        "longitude": 76.7376272
+    },
+    "Plakeezhu": {
+        "latitude": 8.6385699,
+        "longitude": 76.9201907
+    },
+    "Vinobanikethan": {
+        "latitude": 8.63330515,
+        "longitude": 77.07660566126424
+    },
+    "Pettah Kepco": {
+        "latitude": 8.494522150000002,
+        "longitude": 76.9280324718338
+    },
+    "Ymr Junction": {
+        "latitude": 8.5184431,
+        "longitude": 76.9510785
+    },
+    "Amaravila Check Post": {
+        "latitude": 8.38961465,
+        "longitude": 77.09878600982704
+    },
+    "Mylom": {
+        "latitude": 9.0291587,
+        "longitude": 76.7839481
+    },
+    "Venjaramoodu Market": {
+        "latitude": 8.681364550000001,
+        "longitude": 76.91097173913364
+    },
+    "Pottanpara": {
+        "latitude": 8.650655,
+        "longitude": 76.96443038983904
+    },
+    "Kudappanamoodu": {
+        "latitude": 8.477424,
+        "longitude": 77.1873089
+    },
+    "East Fort Government Central High School": {
+        "latitude": 8.4819369,
+        "longitude": 76.9483868
+    },
+    "Palachira": {
+        "latitude": 8.7345738,
+        "longitude": 76.7441554
+    },
+    "Chathannoor": {
+        "latitude": 8.8640806,
+        "longitude": 76.7142084
+    },
+    "Punnamoodu": {
+        "latitude": 9.472893500000001,
+        "longitude": 76.52841437086188
+    },
+    "Devaswom Board": {
+        "latitude": 8.9203508,
+        "longitude": 76.5952317
+    },
+    "Puravimala": {
+        "latitude": 8.5347175,
+        "longitude": 77.18710397485916
+    },
+    "Aniyoor": {
+        "latitude": 8.5712372,
+        "longitude": 76.9068686
+    },
+    "Vavaraambalam": {
+        "latitude": 8.6281637,
+        "longitude": 76.8815141
+    },
+    "General Hospital Trivandrum": {
+        "latitude": 8.499202,
+        "longitude": 76.9431612
+    },
+    "Venchavode": {
+        "latitude": 8.5590256,
+        "longitude": 76.91396917482771
+    },
+    "Nellanadu": {
+        "latitude": 8.7224189,
+        "longitude": 76.8980625
+    },
+    "Kariyam": {
+        "latitude": 8.5578533,
+        "longitude": 76.9232451
+    },
+    "Murukkumon": {
+        "latitude": 8.8411167,
+        "longitude": 76.8801465
+    },
+    "Mla Road": {
+        "latitude": 8.4901631,
+        "longitude": 77.0020792
+    },
+    "Pulayanarkotta": {
+        "latitude": 8.5152137,
+        "longitude": 76.9085947
+    },
+    "Karakkonam": {
+        "latitude": 8.38815765,
+        "longitude": 77.17066351701325
+    },
+    "Attukal Temple": {
+        "latitude": 8.46979725,
+        "longitude": 76.95551287073371
+    },
+    "Pathamkallu": {
+        "latitude": 10.63897815,
+        "longitude": 76.23998383079254
+    },
+    "Chavarcode": {
+        "latitude": 8.7873694,
+        "longitude": 76.7580415
+    },
+    "Kurishumuttam": {
+        "latitude": 9.3951809,
+        "longitude": 76.71946497690953
+    },
+    "Panimoola Temple": {
+        "latitude": 8.6115627,
+        "longitude": 76.8838714
+    },
+    "Palayam Chandrasekharan Nair Stadium": {
+        "latitude": 8.5049475,
+        "longitude": 76.95058502524716
+    },
+    "Kuravankuzhi": {
+        "latitude": 8.7853622,
+        "longitude": 76.8836513
+    },
+    "Nagaroor": {
+        "latitude": 8.7338124,
+        "longitude": 76.8486185
+    },
+    "Anandeshwaram": {
+        "latitude": 8.5783226,
+        "longitude": 77.09120733921549
+    },
+    "Paravur": {
+        "latitude": 8.8098891,
+        "longitude": 76.6715303
+    },
+    "Uthayagiri": {
+        "latitude": 9.848083,
+        "longitude": 77.0638728
+    },
+    "Puthenpally": {
+        "latitude": 9.501773,
+        "longitude": 76.5139868
+    },
+    "Ramapuram Temple": {
+        "latitude": 9.8026498,
+        "longitude": 76.6520295
+    },
+    "Punnakkulam": {
+        "latitude": 8.3647066,
+        "longitude": 77.0255848
+    },
+    "Oottukuzhy": {
+        "latitude": 8.85453265,
+        "longitude": 76.8405189224359
+    },
+    "Kadampattukonam": {
+        "latitude": 8.7973394,
+        "longitude": 76.7690496
+    },
+    "Vithura Bus Station": {
+        "latitude": 8.6763654,
+        "longitude": 77.0951147
+    },
+    "Vanchiyoor": {
+        "latitude": 8.4943301,
+        "longitude": 76.9403506
+    },
+    "Kulappada": {
+        "latitude": 10.900250100000001,
+        "longitude": 76.26579093158807
+    },
+    "Nellivila": {
+        "latitude": 8.5660384,
+        "longitude": 76.9796344
+    },
+    "Manacaud School": {
+        "latitude": 8.47396545,
+        "longitude": 76.94614699045101
+    },
+    "Chemmarathumukku": {
+        "latitude": 8.7547863,
+        "longitude": 76.8581691
+    },
+    "Santhwana Junction": {
+        "latitude": 8.5319175,
+        "longitude": 76.9601157
+    },
+    "Kundamoozhi": {
+        "latitude": 8.5185658,
+        "longitude": 77.0457971
+    },
+    "Kanakkuzhi": {
+        "latitude": 8.5704783,
+        "longitude": 77.0805043
+    },
+    "Kottoor": {
+        "latitude": 11.5658556,
+        "longitude": 76.2339013
+    },
+    "Kairali Nagar": {
+        "latitude": 9.94390525,
+        "longitude": 76.29573721371312
+    },
+    "Pidaram Junction": {
+        "latitude": 8.5036212,
+        "longitude": 77.0225811
+    },
+    "Paravankunnu": {
+        "latitude": 8.4569001,
+        "longitude": 76.9510531
+    },
+    "Overbridge Pulimoodu": {
+        "latitude": 8.4879636,
+        "longitude": 76.9475245
+    },
+    "Venpalavattom Devi Temple": {
+        "latitude": 8.5025768,
+        "longitude": 76.90549755595941
+    },
+    "Ayilam": {
+        "latitude": 8.7154377,
+        "longitude": 76.8633489
+    },
+    "Pangodu": {
+        "latitude": 8.814759,
+        "longitude": 76.9409185
+    },
+    "Pattom St Marys Hss": {
+        "latitude": 8.5256821,
+        "longitude": 76.9376751
+    },
+    "Varkala Aquarium": {
+        "latitude": 8.7454881,
+        "longitude": 76.69793843212116
+    },
+    "Thamalam": {
+        "latitude": 8.4715819,
+        "longitude": 76.9813512
+    },
+    "Pothencode Melemukku": {
+        "latitude": 8.61913765,
+        "longitude": 76.90097205393474
+    },
+    "Koottappu": {
+        "latitude": 8.4928502,
+        "longitude": 77.19647
+    },
+    "Panchayat Well": {
+        "latitude": 10.02963625,
+        "longitude": 77.04770913088531
+    },
+    "Kallikkadu": {
+        "latitude": 11.1604663,
+        "longitude": 79.6175336
+    },
+    "Vamanapuram": {
+        "latitude": 8.7218833,
+        "longitude": 76.8980032
+    },
+    "Mangalackal": {
+        "latitude": 8.494209699999999,
+        "longitude": 77.0990906895232
+    },
+    "Manivila": {
+        "latitude": 8.390961149999999,
+        "longitude": 77.1571324659053
+    },
+    "Milma Junction": {
+        "latitude": 9.4103292,
+        "longitude": 76.41049952666421
+    },
+    "Marangad": {
+        "latitude": 8.9171504,
+        "longitude": 76.8368125
+    },
+    "Kuruvinmugal": {
+        "latitude": 8.473395400000001,
+        "longitude": 77.03626966435385
+    },
+    "Kailas Junction": {
+        "latitude": 8.4810652,
+        "longitude": 76.9616794
+    },
+    "Kaimanam": {
+        "latitude": 8.4730761,
+        "longitude": 76.9777837
+    },
+    "Vadasserikonam": {
+        "latitude": 8.729266,
+        "longitude": 76.7557028
+    },
+    "Pangode": {
+        "latitude": 8.5046498,
+        "longitude": 76.9865519
+    },
+    "Peroorkada Thankamma Stadium": {
+        "latitude": 8.535298749999999,
+        "longitude": 76.96409389418835
+    },
+    "Palayam Flyover": {
+        "latitude": 8.5054455,
+        "longitude": 76.9499485
+    },
+    "Bhoothamadakki": {
+        "latitude": 8.754064,
+        "longitude": 76.8752386
+    },
+    "Vattavila": {
+        "latitude": 8.5662538,
+        "longitude": 76.9224333
+    },
+    "Ithikkara": {
+        "latitude": 8.8394885,
+        "longitude": 76.73670881161243
+    },
+    "Kalluvathukkal": {
+        "latitude": 8.8312511,
+        "longitude": 76.7458561
+    },
+    "Madavoor Para": {
+        "latitude": 8.5913971,
+        "longitude": 76.9051771
+    },
+    "East Fort Karimpanal Arcade": {
+        "latitude": 8.481482,
+        "longitude": 76.9472907
+    },
+    "Ncess Akkulam": {
+        "latitude": 8.523146449999999,
+        "longitude": 76.90963417072865
+    },
+    "Shanthipuram": {
+        "latitude": 9.8210371,
+        "longitude": 76.5204719
+    },
+    "Malayinkeezhu": {
+        "latitude": 8.4901972,
+        "longitude": 77.0378323
+    },
+    "Vazhayila": {
+        "latitude": 8.5593642,
+        "longitude": 76.966614
+    },
+    "Theatre Junction": {
+        "latitude": 8.8950836,
+        "longitude": 76.6699677
+    },
+    "Co Operative Bank Peroorkada": {
+        "latitude": 8.5347419,
+        "longitude": 76.9644784
+    },
+    "Kudavoor": {
+        "latitude": 8.7714927,
+        "longitude": 76.79342278675286
+    },
+    "Vjt Hall": {
+        "latitude": 8.5026731,
+        "longitude": 76.9492891
+    },
+    "Palayam": {
+        "latitude": 8.5030538,
+        "longitude": 76.9500997
+    },
+    "Mylachal": {
+        "latitude": 10.15144385,
+        "longitude": 76.47222137893367
+    },
+    "Thampanoor": {
+        "latitude": 8.4876666,
+        "longitude": 76.952434
+    },
+    "Chenthitta": {
+        "latitude": 8.4841994,
+        "longitude": 76.9563906
+    },
+    "Kallummoodu": {
+        "latitude": 8.497089,
+        "longitude": 76.9220851
+    },
+    "Karipoor": {
+        "latitude": 8.4961188,
+        "longitude": 77.0300887
+    },
+    "Kilimanoor": {
+        "latitude": 8.7703581,
+        "longitude": 76.8809615
+    },
+    "Palode": {
+        "latitude": 8.7232574,
+        "longitude": 77.0283918
+    },
+    "Ganga Nagar": {
+        "latitude": 13.0232471,
+        "longitude": 77.5883569
+    },
+    "Enikkara School": {
+        "latitude": 8.5558408,
+        "longitude": 76.97812439703515
+    },
+    "Gandhismarakam": {
+        "latitude": 8.620607249999999,
+        "longitude": 76.88554405
+    },
+    "Karikkarathala": {
+        "latitude": 8.4531751,
+        "longitude": 77.1561483
+    },
+    "San Nagar": {
+        "latitude": 13.0354768,
+        "longitude": 80.2111075
+    },
+    "Anthiyoorkonam Junction": {
+        "latitude": 8.490449,
+        "longitude": 77.053991
+    },
+    "Karakulam Lps": {
+        "latitude": 8.5579238,
+        "longitude": 76.978374
+    },
+    "Alathara": {
+        "latitude": 8.53943835,
+        "longitude": 76.89932566420634
+    },
+    "Thempammoodu": {
+        "latitude": 8.6805659,
+        "longitude": 76.9415332
+    },
+    "Kadakkal": {
+        "latitude": 8.8336484,
+        "longitude": 76.9226998
+    },
+    "Nalanchira": {
+        "latitude": 8.54659725,
+        "longitude": 76.94544777680935
+    },
+    "Uriyacode": {
+        "latitude": 8.5509922,
+        "longitude": 77.066581
+    },
+    "Kariyam Devi Temple": {
+        "latitude": 8.5580205,
+        "longitude": 76.9191152
+    },
+    "Vilavoorkal": {
+        "latitude": 8.4903251,
+        "longitude": 77.0189328
+    },
+    "Charumoodu": {
+        "latitude": 8.5944544,
+        "longitude": 77.0403385
+    },
+    "Ayiroor": {
+        "latitude": 8.7686586,
+        "longitude": 76.7251948
+    },
+    "Bhagavathipuram": {
+        "latitude": 10.7885497,
+        "longitude": 78.7750684
+    },
+    "Menamkulam": {
+        "latitude": 8.564708450000001,
+        "longitude": 76.85511906255437
+    },
+    "Arumanoorkada": {
+        "latitude": 8.3458786,
+        "longitude": 77.0724782
+    },
+    "Moonanakuzhi": {
+        "latitude": 11.7287882,
+        "longitude": 76.1964376
+    },
+    "Chamavila": {
+        "latitude": 8.434894,
+        "longitude": 77.1592821
+    },
+    "Mamkoottam": {
+        "latitude": 9.131188649999999,
+        "longitude": 76.76678316251243
+    },
+    "Medical College Op": {
+        "latitude": 8.5699592,
+        "longitude": 76.8722107
+    },
+    "Sut Hospital": {
+        "latitude": 8.5183101,
+        "longitude": 76.9416983
+    },
+    "Station Kadavu": {
+        "latitude": 8.5437849,
+        "longitude": 76.873363
+    },
+    "Konniyoor": {
+        "latitude": 8.5468317,
+        "longitude": 77.0757747
+    },
+    "Puravoorkonam": {
+        "latitude": 8.5532951,
+        "longitude": 76.9721568
+    },
+    "Paluvally": {
+        "latitude": 8.7127488,
+        "longitude": 77.00944196207791
+    },
+    "Perumkidavila": {
+        "latitude": 8.4409285,
+        "longitude": 77.1098935
+    },
+    "Pallimukku-peyad": {
+        "latitude": 8.5123073,
+        "longitude": 77.0134957
+    },
+    "Manalayam": {
+        "latitude": 9.326485850000001,
+        "longitude": 76.42236529051155
+    },
+    "Puthan Pally": {
+        "latitude": 8.7664371,
+        "longitude": 76.95638912335085
+    },
+    "Palayamkunnu": {
+        "latitude": 8.7799342,
+        "longitude": 76.7437475
+    },
+    "Pananvila": {
+        "latitude": 8.5770506,
+        "longitude": 76.9280428
+    },
+    "Kuriyathi": {
+        "latitude": 8.71981635,
+        "longitude": 76.883229565625
+    },
+    "Venjaramood": {
+        "latitude": 8.6719218,
+        "longitude": 76.9773283
+    },
+    "Attakulangara": {
+        "latitude": 8.4776781,
+        "longitude": 76.9554949
+    },
+    "Chavadimukku": {
+        "latitude": 8.5509123,
+        "longitude": 76.911074
+    },
+    "Madankav": {
+        "latitude": 8.9341314,
+        "longitude": 76.6502756825343
+    },
+    "Kudayal": {
+        "latitude": 8.4178803,
+        "longitude": 77.1304294
+    },
+    "Vandippura": {
+        "latitude": 8.7712512,
+        "longitude": 76.7390028
+    },
+    "Kottamugal": {
+        "latitude": 9.1499543,
+        "longitude": 76.7503598
+    },
+    "Government Polytechnic College": {
+        "latitude": 8.42982365,
+        "longitude": 77.08281037527212
+    },
+    "Theruvila": {
+        "latitude": 8.607577,
+        "longitude": 76.90748095314802
+    },
+    "Bhagavathinada": {
+        "latitude": 8.42321715,
+        "longitude": 77.02802618485873
+    },
+    "Kalliyal": {
+        "latitude": 8.5594161,
+        "longitude": 77.1308741
+    },
+    "Trivandrum": {
+        "latitude": 8.4882267,
+        "longitude": 76.947551
+    },
+    "Jawahar Junction": {
+        "latitude": 9.9717054,
+        "longitude": 76.3014081
+    },
+    "Manamboor": {
+        "latitude": 8.7173406,
+        "longitude": 76.7884357
+    },
+    "Varkala Temple": {
+        "latitude": 8.7810455,
+        "longitude": 76.67725728325001
+    },
+    "Thiruvallom": {
+        "latitude": 8.4399377,
+        "longitude": 76.9652787
+    },
+    "Decent Junction": {
+        "latitude": 8.89986815,
+        "longitude": 76.65078107879842
+    },
+    "Korani": {
+        "latitude": 8.6645486,
+        "longitude": 76.8396587
+    },
+    "Pattara": {
+        "latitude": 9.0972672,
+        "longitude": 76.8405344
+    },
+    "Punnakkamugal Kseb": {
+        "latitude": 8.49309095,
+        "longitude": 76.99378356011198
+    },
+    "Chithara": {
+        "latitude": 8.8149645,
+        "longitude": 76.9671898
+    },
+    "Kottackal Junction": {
+        "latitude": 9.2365299,
+        "longitude": 76.47141873548836
+    },
+    "Koottapu": {
+        "latitude": 8.490425049999999,
+        "longitude": 77.19624757310311
+    },
+    "Pullampara": {
+        "latitude": 8.6879793,
+        "longitude": 76.95119866762411
+    },
+    "Thamalam Junction": {
+        "latitude": 8.4788889,
+        "longitude": 76.9828993
+    },
+    "Karikuzhi": {
+        "latitude": 9.5324636,
+        "longitude": 76.33114731250001
+    },
+    "Amaravila": {
+        "latitude": 8.3890907,
+        "longitude": 77.1036918
+    },
+    "Machel Temple": {
+        "latitude": 8.4698604,
+        "longitude": 77.0310212
+    },
+    "Manakkadu": {
+        "latitude": 11.6234695,
+        "longitude": 77.8866112
+    },
+    "Aruvipuram": {
+        "latitude": 8.4248028,
+        "longitude": 77.0950396
+    },
+    "Kumili Temple": {
+        "latitude": 12.80470635,
+        "longitude": 80.1106192
+    },
+    "Eruthavoor": {
+        "latitude": 8.441855,
+        "longitude": 77.0554837
+    },
+    "Pattom Psc": {
+        "latitude": 8.519818950000001,
+        "longitude": 76.9412335421692
+    },
+    "Kallara": {
+        "latitude": 8.7519683,
+        "longitude": 76.9388209
+    },
+    "Venjaramoodu": {
+        "latitude": 8.6780953,
+        "longitude": 76.9094851
+    },
+    "Chengaloor": {
+        "latitude": 10.4056635,
+        "longitude": 76.3011244
+    },
+    "Chengalloor": {
+        "latitude": 8.4962195,
+        "longitude": 76.9789652
+    },
+    "Aruviyod": {
+        "latitude": 8.41976865,
+        "longitude": 77.15884665095166
+    },
+    "Vidyaniketan Public School": {
+        "latitude": 12.9522043,
+        "longitude": 77.4864735
+    },
+    "Muthalapozhi": {
+        "latitude": 8.63088245,
+        "longitude": 76.78703622323201
+    },
+    "Avaneeswaram": {
+        "latitude": 9.0365111,
+        "longitude": 76.85319
+    },
+    "Nadayara": {
+        "latitude": 8.7597781,
+        "longitude": 76.7250499
+    },
+    "Pathanapuram": {
+        "latitude": 9.0926952,
+        "longitude": 76.8562962
+    },
+    "Pattom": {
+        "latitude": 8.5186064,
+        "longitude": 76.9423829
+    },
+    "Karippoor": {
+        "latitude": 11.68875885,
+        "longitude": 76.31408331124021
+    },
+    "Karimbuvila": {
+        "latitude": 8.795755,
+        "longitude": 76.811699
+    },
+    "Kunnikode": {
+        "latitude": 9.0232575,
+        "longitude": 76.8472134
+    },
+    "Attingal": {
+        "latitude": 8.6985965,
+        "longitude": 76.8134401
+    },
+    "Kovoor": {
+        "latitude": 9.021089,
+        "longitude": 76.596526
+    },
+    "Karakulam Panchayath Office": {
+        "latitude": 8.56262175,
+        "longitude": 76.98333359934942
+    },
+    "Kovalam Jn": {
+        "latitude": 8.3216235,
+        "longitude": 77.0729829
+    },
+    "Palakuzhy": {
+        "latitude": 10.3845986,
+        "longitude": 76.2696490168177
+    },
+    "Thempamoodu": {
+        "latitude": 8.67892955,
+        "longitude": 76.94267714791755
+    },
+    "Manakkala A": {
+        "latitude": 9.134261,
+        "longitude": 76.7197825
+    },
+    "Kallikadu": {
+        "latitude": 10.4196146,
+        "longitude": 79.3673088
+    },
+    "Kakkanam": {
+        "latitude": 8.42615,
+        "longitude": 77.12109
+    },
+    "Soorya Nagar": {
+        "latitude": 8.5174555,
+        "longitude": 76.9734594
+    },
+    "Vellapally": {
+        "latitude": 10.0316738,
+        "longitude": 77.045858
+    },
+    "Malayinkil": {
+        "latitude": 8.503909199999999,
+        "longitude": 77.04945753673844
+    },
+    "Sreekaryam": {
+        "latitude": 8.5489489,
+        "longitude": 76.9171867
+    },
+    "Paliyode": {
+        "latitude": 8.4286941,
+        "longitude": 77.1500734
+    },
+    "Pulimoodu": {
+        "latitude": 8.4926991,
+        "longitude": 76.9484155
+    },
+    "Ajayapuram": {
+        "latitude": 8.6608726,
+        "longitude": 76.9878555
+    },
+    "Pezhummoodu": {
+        "latitude": 8.5848861,
+        "longitude": 76.9671779
+    },
+    "Elluvila": {
+        "latitude": 8.9814814,
+        "longitude": 76.64664564343352
+    },
+    "Vazhavila": {
+        "latitude": 8.9623746,
+        "longitude": 76.6639698665934
+    },
+    "Muttachal": {
+        "latitude": 8.4529849,
+        "longitude": 77.1841964
+    },
+    "Thycaud Hospital": {
+        "latitude": 8.4871417,
+        "longitude": 76.9563913
+    },
+    "Thoppumukku": {
+        "latitude": 8.5258197,
+        "longitude": 76.9920573
+    },
+    "Old Karakkamandapam": {
+        "latitude": 8.4612262,
+        "longitude": 76.9941267
+    },
+    "Vettinad": {
+        "latitude": 8.6424078,
+        "longitude": 76.9013189
+    },
+    "Chovvara": {
+        "latitude": 10.1329777,
+        "longitude": 76.3722718
+    },
+    "Mithirmala": {
+        "latitude": 8.72847025,
+        "longitude": 76.94188037704475
+    },
+    "Thoppil": {
+        "latitude": 9.53967435,
+        "longitude": 76.52609362770733
+    },
+    "Iruloor": {
+        "latitude": 8.7223706,
+        "longitude": 76.898067
+    },
+    "Methottam": {
+        "latitude": 8.61873425,
+        "longitude": 77.0699863990129
+    },
+    "Vilavoorkal Market": {
+        "latitude": 8.4794717,
+        "longitude": 77.0202569
+    },
+    "Kadakkavoor": {
+        "latitude": 8.6838747,
+        "longitude": 76.7709099
+    },
+    "Mananakku": {
+        "latitude": 8.7006601,
+        "longitude": 76.78453445247145
+    },
+    "Kannannoor": {
+        "latitude": 8.942400750000001,
+        "longitude": 76.77233403658488
+    },
+    "Old Sbt": {
+        "latitude": 9.385906649999999,
+        "longitude": 76.5746386336964
+    },
+    "Kairali Junction": {
+        "latitude": 9.95466905,
+        "longitude": 76.29668194999999
+    },
+    "Kulathoor Bypass": {
+        "latitude": 8.54841525,
+        "longitude": 76.8751111993614
+    },
+    "Andoorkonam Palli": {
+        "latitude": 8.6014976,
+        "longitude": 76.8753298
+    },
+    "Sathyanmukku": {
+        "latitude": 9.0694114,
+        "longitude": 76.8571506
+    },
+    "Thiruvananthapuram": {
+        "latitude": 8.4882267,
+        "longitude": 76.947551
+    },
+    "Nagercoil": {
+        "latitude": 8.1880471,
+        "longitude": 77.4290492
+    },
+    "Kollam Ksrtc Bus Station": {
+        "latitude": 8.857315499999999,
+        "longitude": 76.72199570139628
+    },
+    "Ernakulam": {
+        "latitude": 9.98408,
+        "longitude": 76.2741457
+    },
+    "Udiyankulangara": {
+        "latitude": 8.3796678,
+        "longitude": 77.1209053
+    },
+    "Kattakada": {
+        "latitude": 8.5072457,
+        "longitude": 77.0829921
+    },
+    "Thrissur": {
+        "latitude": 10.5270099,
+        "longitude": 76.214621
+    },
+    "Marthandam": {
+        "latitude": 8.3065018,
+        "longitude": 77.2223116
+    },
+    "Chullimanoor": {
+        "latitude": 8.6422703,
+        "longitude": 77.0206771
+    },
+    "Eastfort": {
+        "latitude": 8.4840396,
+        "longitude": 76.9470334
+    },
+    "Parasuvaikkal": {
+        "latitude": 8.375101542912017,
+        "longitude": 77.14993880700777
+    },
+    "Anad": {
+        "latitude": 8.6330743,
+        "longitude": 77.0110095
+    },
+    "Nanniyode": {
+        "latitude": 8.6990174,
+        "longitude": 77.0264619
+    },
+    "Tholicode": {
+        "latitude": 8.6452548,
+        "longitude": 77.055084
+    },
+    "Nedumangadu": {
+        "latitude": 8.6052118,
+        "longitude": 77.0028311
+    },
+    "Thampanoor Bus Stand": {
+        "latitude": 8.4667437,
+        "longitude": 76.9546252
+    },
+    "Kottarakkara": {
+        "latitude": 9.0055368,
+        "longitude": 76.7832172
+    },
+    "Neyyatinkara": {
+        "latitude": 8.3994883,
+        "longitude": 77.087201
+    },
+    "Kazhakuttom": {
+        "latitude": 8.56621955,
+        "longitude": 76.87214867642248
+    },
+    "Kunnathukal": {
+        "latitude": 8.420137700000002,
+        "longitude": 77.16693528445302
+    },
+    "Adoor": {
+        "latitude": 9.1581862,
+        "longitude": 76.77326138126125
+    },
+    "Theviyode": {
+        "latitude": 8.6771493,
+        "longitude": 77.0968747
+    },
+    "Kulathupuzha": {
+        "latitude": 8.9065347,
+        "longitude": 77.0564917
+    },
+    "Madathara": {
+        "latitude": 8.817704,
+        "longitude": 77.0132795
+    },
+    "Ambalam": {
+        "latitude": 10.0093527,
+        "longitude": 76.2429865
+    },
+    "Vlathankara": {
+        "latitude": 8.36451718509375,
+        "longitude": 77.09215398070393
+    },
+    "Kamukincode": {
+        "latitude": 8.39386595,
+        "longitude": 77.0624653190367
+    },
+    "Kurupuzha": {
+        "latitude": 8.6244777,
+        "longitude": 76.99998617045149
+    },
+    "Vellanad": {
+        "latitude": 8.573286249999999,
+        "longitude": 77.05185728158253
+    },
+    "Neyyar Dam": {
+        "latitude": 8.535053049999998,
+        "longitude": 77.14528920877659
+    },
+    "Secretariat Thiruvananthapuram": {
+        "latitude": 8.4972225,
+        "longitude": 76.9483446
+    },
+    "Athiyannoor": {
+        "latitude": 8.37012515,
+        "longitude": 77.03688594049144
+    },
+    "Melamcode": {
+        "latitude": 8.61230115,
+        "longitude": 77.00184746127128
+    },
+    "Chackai": {
+        "latitude": 8.5038089,
+        "longitude": 76.91045940007923
+    },
+    "Vithura Jersey Farm": {
+        "latitude": 8.6723537,
+        "longitude": 77.1398366
+    },
+    "Kulathoor College": {
+        "latitude": 8.3266904,
+        "longitude": 77.10107826558061
+    },
+    "Muttakkadu": {
+        "latitude": 8.429665700000001,
+        "longitude": 77.0926638935096
+    },
+    "Vizhinjam": {
+        "latitude": 8.3818216,
+        "longitude": 76.9916058
+    },
+    "Ponmudi Upper": {
+        "latitude": 8.7639983,
+        "longitude": 77.12034402001439
+    },
+    "Elavattom": {
+        "latitude": 8.6701034,
+        "longitude": 77.0252014
+    },
+    "Pazhayakada": {
+        "latitude": 8.3610721,
+        "longitude": 77.0790026
+    },
+    "Vithura Kalungu": {
+        "latitude": 8.6695556,
+        "longitude": 77.0840916
+    },
+    "Kollam": {
+        "latitude": 8.8872399,
+        "longitude": 76.5908768
+    },
+    "Poovar": {
+        "latitude": 8.3187448,
+        "longitude": 77.0706518
+    },
+    "Pothenkode": {
+        "latitude": 8.59121327462074,
+        "longitude": 76.90503917044036
+    },
+    "Amaravila Checkpost": {
+        "latitude": 8.389304150000001,
+        "longitude": 77.1051974993487
+    },
+    "Vikas Bhavan": {
+        "latitude": 8.50777045,
+        "longitude": 76.94877438968302
+    },
+    "10th Mile": {
+        "latitude": 9.8187226,
+        "longitude": 77.0252887
+    },
+    "Valakom": {
+        "latitude": 9.9806773,
+        "longitude": 76.5204298
+    },
+    "Keezharoor Bridge A": {
+        "latitude": 8.47020525,
+        "longitude": 77.110517
+    },
+    "Poozhikunnu": {
+        "latitude": 11.063981250000001,
+        "longitude": 76.14140609191917
+    },
+    "Kallar": {
+        "latitude": 10.7377746,
+        "longitude": 79.8498494
+    },
+    "Mampazhakkara": {
+        "latitude": 8.4318573,
+        "longitude": 77.09769445820035
+    },
+    "Pathanamthitta": {
+        "latitude": 9.278084100000001,
+        "longitude": 76.97374429915658
+    },
+    "Kallikkad": {
+        "latitude": 8.5308458,
+        "longitude": 77.1257907
+    },
+    "Cheriyakonni": {
+        "latitude": 8.54997215,
+        "longitude": 77.0287896
+    },
+    "Papanamcode": {
+        "latitude": 8.48876945,
+        "longitude": 77.03748234050784
+    },
+    "Peroorkkada": {
+        "latitude": 8.531377842651132,
+        "longitude": 76.98955019060013
+    },
+    "Chenkal Junction": {
+        "latitude": 8.367623,
+        "longitude": 77.0995677
+    },
+    "Aruvikkara Dam": {
+        "latitude": 8.57383790584009,
+        "longitude": 77.02110159511582
+    },
+    "Rcc": {
+        "latitude": 8.5206614,
+        "longitude": 76.9245217
+    },
+    "Venjaramoodu Bus Stand": {
+        "latitude": 8.6796539,
+        "longitude": 76.9123997
+    },
+    "Panavoor": {
+        "latitude": 8.681721849999999,
+        "longitude": 76.99022612245318
+    },
+    "Dhanuvachapuram": {
+        "latitude": 8.3840483,
+        "longitude": 77.1283036
+    },
+    "Mavilakadavu": {
+        "latitude": 8.342173,
+        "longitude": 77.0948347
+    },
+    "Kottarakara": {
+        "latitude": 9.0002635,
+        "longitude": 76.765871
+    },
+    "Peringamala": {
+        "latitude": 8.7273241,
+        "longitude": 77.0457074
+    },
+    "Athiyannur": {
+        "latitude": 8.3934659,
+        "longitude": 77.06141824267038
+    },
+    "Anappara": {
+        "latitude": 9.2671633,
+        "longitude": 76.7945946
+    },
+    "Pandalam": {
+        "latitude": 9.2251208,
+        "longitude": 76.6781249
+    },
+    "Karakulam": {
+        "latitude": 8.5625502,
+        "longitude": 76.9838718
+    },
+    "8th Mile": {
+        "latitude": 9.5781125,
+        "longitude": 76.6145116
+    },
+    "Ayiroorpara": {
+        "latitude": 8.572807,
+        "longitude": 76.9253356
+    },
+    "Civil Station": {
+        "latitude": 10.7616809,
+        "longitude": 76.658085
+    },
+    "Punaloor": {
+        "latitude": 9.018738200000001,
+        "longitude": 76.9175241577278
+    },
+    "Vikasbhavan": {
+        "latitude": 8.50777045,
+        "longitude": 76.94877438968302
+    },
+    "Chenkal": {
+        "latitude": 9.5650845,
+        "longitude": 76.7307262
+    },
+    "Poozhikkunnu": {
+        "latitude": 11.0642663,
+        "longitude": 76.1403789
+    },
+    "Olathanni": {
+        "latitude": 8.3733159,
+        "longitude": 77.081999
+    },
+    "Chengannoor": {
+        "latitude": 9.2918223,
+        "longitude": 76.60126477339446
+    },
+    "Attingal Bus Stand": {
+        "latitude": 8.694916599999999,
+        "longitude": 76.81859943793987
+    },
+    "Thiruvalla": {
+        "latitude": 9.3867448,
+        "longitude": 76.5762652
+    },
+    "Snhss": {
+        "latitude": 10.1444567,
+        "longitude": 76.23436227792511
+    },
+    "Mulayara": {
+        "latitude": 8.5399571,
+        "longitude": 77.0468883
+    },
+    "Chayam": {
+        "latitude": 8.6744766,
+        "longitude": 77.0725699
+    },
+    "Ayiroopara": {
+        "latitude": 8.61303155,
+        "longitude": 76.8966996
+    },
+    "Chadayamangalam": {
+        "latitude": 8.8719144,
+        "longitude": 76.8691239
+    },
+    "Kattakode": {
+        "latitude": 8.5143074,
+        "longitude": 77.0749854
+    },
+    "Vedivechankovil": {
+        "latitude": 8.43535275,
+        "longitude": 77.03153001102032
+    },
+    "Kalayapuram": {
+        "latitude": 9.0547541,
+        "longitude": 76.7695495
+    },
+    "Karamana Jn": {
+        "latitude": 8.4745936,
+        "longitude": 76.950297
+    },
+    "Uchakada": {
+        "latitude": 8.3869249,
+        "longitude": 77.0255709
+    },
+    "Kovalam": {
+        "latitude": 8.3902593,
+        "longitude": 76.9785152
+    },
+    "Sanghumugham": {
+        "latitude": 8.4942033,
+        "longitude": 76.90018209294307
+    },
+    "Peyad Pallimukku": {
+        "latitude": 8.5123073,
+        "longitude": 77.0134957
+    },
+    "Chaikulam": {
+        "latitude": 8.51100795,
+        "longitude": 77.1071144266051
+    },
+    "Aramthanam": {
+        "latitude": 8.740753476063905,
+        "longitude": 76.90680369142187
+    },
+    "Kudapanakunnu": {
+        "latitude": 8.549766850000001,
+        "longitude": 76.96360665412661
+    },
+    "Contonment": {
+        "latitude": 8.8807462,
+        "longitude": 76.5919601
+    },
+    "Amboori Hospital": {
+        "latitude": 8.523543,
+        "longitude": 77.18003076992393
+    },
+    "Thinavila": {
+        "latitude": 8.9436976,
+        "longitude": 76.5942213
+    },
+    "Kallikad": {
+        "latitude": 10.81790935,
+        "longitude": 76.1876295682284
+    },
+    "Balaramapuram V": {
+        "latitude": 8.4247979,
+        "longitude": 77.0457835
+    },
+    "Chittattinkara": {
+        "latitude": 9.683231,
+        "longitude": 76.7576643
+    },
+    "Vandanoor": {
+        "latitude": 8.4449069,
+        "longitude": 77.07860208548325
+    },
+    "Kanjirapara": {
+        "latitude": 9.23847215,
+        "longitude": 76.7933413680698
+    },
+    "Karate": {
+        "latitude": 8.4762161,
+        "longitude": 76.9474539
+    },
+    "Anjal": {
+        "latitude": 9.15956955,
+        "longitude": 76.50697355124706
+    },
+    "Panaveli": {
+        "latitude": 10.8285312,
+        "longitude": 79.072082
+    },
+    "Punnamoode": {
+        "latitude": 9.1312984,
+        "longitude": 76.8647298
+    },
+    "Mandapathinkadav": {
+        "latitude": 8.4917192,
+        "longitude": 77.124873
+    },
+    "Panayamuttom": {
+        "latitude": 8.6812031,
+        "longitude": 77.0031399
+    },
+    "Perunkadavila": {
+        "latitude": 8.4771794,
+        "longitude": 77.16812238458512
+    },
+    "Chozhiyakode": {
+        "latitude": 8.850730327759528,
+        "longitude": 77.03090650389073
+    },
+    "Changanassery": {
+        "latitude": 9.489667449999999,
+        "longitude": 76.62783425007578
+    },
+    "Pangapara": {
+        "latitude": 8.562567637804804,
+        "longitude": 76.89827930278089
+    },
+    "Karunagappally": {
+        "latitude": 9.0341924,
+        "longitude": 76.5367765114016
+    },
+    "Pound Kadavu": {
+        "latitude": 10.4215956,
+        "longitude": 76.35780874730911
+    },
+    "Vedivachankovil": {
+        "latitude": 8.4320572,
+        "longitude": 77.0305968
+    },
+    "Kottampally": {
+        "latitude": 9.1149997,
+        "longitude": 76.53399910111389
+    },
+    "Chengamanad": {
+        "latitude": 10.1535609,
+        "longitude": 76.340438
+    },
+    "Parassala Jn": {
+        "latitude": 8.3417676,
+        "longitude": 77.156291
+    },
+    "Kayamkulam": {
+        "latitude": 9.1723603,
+        "longitude": 76.500061
+    },
+    "Ponmudi Guest House": {
+        "latitude": 8.7575924,
+        "longitude": 77.11594924101814
+    },
+    "Kaliyikkavila": {
+        "latitude": 8.3348975,
+        "longitude": 77.1716874
+    },
+    "Pozhiyoor": {
+        "latitude": 8.301634,
+        "longitude": 77.0917189
+    },
+    "Plamoottukada": {
+        "latitude": 8.3429965,
+        "longitude": 77.11596919558156
+    },
+    "Mavilakkadavu": {
+        "latitude": 8.34158805,
+        "longitude": 77.08965749999999
+    },
+    "Kuttamala": {
+        "latitude": 8.4959533,
+        "longitude": 77.1763916595832
+    },
+    "Chettachal": {
+        "latitude": 8.6897414,
+        "longitude": 77.0604043
+    },
+    "Marayamuttom": {
+        "latitude": 8.4166055,
+        "longitude": 77.1077296
+    },
+    "Ponganadu": {
+        "latitude": 8.7833217,
+        "longitude": 76.8444513
+    },
+    "6th Mile": {
+        "latitude": 9.6478224,
+        "longitude": 77.1649081
+    },
+    "Puthenpalam": {
+        "latitude": 9.6970435,
+        "longitude": 76.41832292604595
+    },
+    "Bharathannoor": {
+        "latitude": 8.76242225,
+        "longitude": 76.9872633635486
+    },
+    "Ayira School": {
+        "latitude": 8.33732135,
+        "longitude": 77.13382543293302
+    },
+    "Kalankavu": {
+        "latitude": 8.6894151,
+        "longitude": 77.0419785
+    },
+    "Kottayam": {
+        "latitude": 9.6287383,
+        "longitude": 76.64553257390992
+    },
+    "Azhicode": {
+        "latitude": 10.191333100000001,
+        "longitude": 76.17024858076437
+    },
+    "Njandoorkonam": {
+        "latitude": 8.5840543,
+        "longitude": 76.9195842
+    },
+    "Kuzhithurai": {
+        "latitude": 8.315526,
+        "longitude": 77.2068841
+    },
+    "Akkulam": {
+        "latitude": 8.521056,
+        "longitude": 76.9067859
+    },
+    "Malayankeezhu": {
+        "latitude": 8.4910635,
+        "longitude": 77.0505843
+    },
+    "Kattayikkonam": {
+        "latitude": 8.6031162,
+        "longitude": 76.897718
+    },
+    "Venkode": {
+        "latitude": 8.5928921,
+        "longitude": 76.9711230295213
+    },
+    "Nehru Jn": {
+        "latitude": 9.99719035,
+        "longitude": 76.30083562204854
+    },
+    "Punnavoor": {
+        "latitude": 8.466419,
+        "longitude": 77.083829
+    },
+    "Venkavila": {
+        "latitude": 8.6206407,
+        "longitude": 76.9850902
+    },
+    "Pulimukku": {
+        "latitude": 9.25206955,
+        "longitude": 76.81291137763145
+    },
+    "Ayyappankuzhi": {
+        "latitude": 10.6760945,
+        "longitude": 76.69810062728533
+    },
+    "Uriyakodu": {
+        "latitude": 8.5504958,
+        "longitude": 77.06338216383384
+    },
+    "Mulakkalathukavu": {
+        "latitude": 8.79695185,
+        "longitude": 76.85735180470846
+    },
+    "Pulippara": {
+        "latitude": 9.326275943568382,
+        "longitude": 76.81956511873759
+    },
+    "Panavoor Junction": {
+        "latitude": 8.6634033,
+        "longitude": 76.9858079
+    },
+    "Peruvila": {
+        "latitude": 8.372420024934975,
+        "longitude": 77.14954833820285
+    },
+    "Panavoor Lps": {
+        "latitude": 8.6649258,
+        "longitude": 76.9839993
+    },
+    "Vellanadu": {
+        "latitude": 8.562014600000001,
+        "longitude": 77.0540195071969
+    },
+    "Kilimanoor Junction": {
+        "latitude": 8.7701871,
+        "longitude": 76.8808693
+    },
+    "Nalanchira Gate": {
+        "latitude": 8.5425158,
+        "longitude": 76.9416851
+    },
+    "Vadakkevila": {
+        "latitude": 8.8772736,
+        "longitude": 76.613366
+    },
+    "Thiruvanthapuram": {
+        "latitude": 8.4402406,
+        "longitude": 76.9561334
+    },
+    "Chellamangalam": {
+        "latitude": 8.56462675,
+        "longitude": 76.92062769999929
+    },
+    "Karakulam Bridge": {
+        "latitude": 8.5640051,
+        "longitude": 76.9856093
+    },
+    "Thottamukku": {
+        "latitude": 9.12994135,
+        "longitude": 76.679458317
+    },
+    "Karakkad": {
+        "latitude": 9.2823557,
+        "longitude": 76.6555156
+    },
+    "Pezhumoodu": {
+        "latitude": 9.2400902,
+        "longitude": 76.7486476
+    },
+    "Parassala Junction": {
+        "latitude": 8.3430098,
+        "longitude": 77.1526165
+    },
+    "Idinjar": {
+        "latitude": 8.7525747,
+        "longitude": 77.0711982
+    },
+    "Punnamood": {
+        "latitude": 9.0477767,
+        "longitude": 76.6485662
+    },
+    "Kanacode": {
+        "latitude": 8.5961045,
+        "longitude": 76.9473017
+    },
+    "Cheenivila Junction": {
+        "latitude": 8.92622735,
+        "longitude": 76.85036538377021
+    },
+    "Thanimoodu": {
+        "latitude": 9.832347,
+        "longitude": 77.175645
+    },
+    "Chempakappara": {
+        "latitude": 9.8367811,
+        "longitude": 77.0895968
+    },
+    "Charumood": {
+        "latitude": 9.191138611169487,
+        "longitude": 76.62089931066208
+    },
+    "Perayam": {
+        "latitude": 8.9804582,
+        "longitude": 76.6715901
+    },
+    "Neyyardam": {
+        "latitude": 8.53271625,
+        "longitude": 77.14402215462599
+    },
+    "Malayamadam": {
+        "latitude": 8.773713,
+        "longitude": 76.85921055489473
+    },
+    "Thalakonam": {
+        "latitude": 8.494446402555248,
+        "longitude": 76.97085654202967
+    },
+    "Kuravankuzhy": {
+        "latitude": 9.37440655,
+        "longitude": 76.68454980724788
+    },
+    "Pappanam": {
+        "latitude": 10.55114515,
+        "longitude": 76.0691115305662
+    },
+    "Kunnathukal Hospital": {
+        "latitude": 8.3905924,
+        "longitude": 77.1611374
+    },
+    "Kulamancode": {
+        "latitude": 8.6790454,
+        "longitude": 77.0594834
+    },
+    "Cherthala": {
+        "latitude": 9.6912036,
+        "longitude": 76.3257168
+    },
+    "Ootukuzhi": {
+        "latitude": 8.4972537,
+        "longitude": 77.0957743
+    },
+    "Nellimoodu": {
+        "latitude": 8.3789469,
+        "longitude": 77.0463312
+    },
+    "Chudukadu Temple": {
+        "latitude": 8.42595095,
+        "longitude": 76.9626076436708
+    },
+    "Karatte": {
+        "latitude": 11.810897749999999,
+        "longitude": 76.00504518305874
+    },
+    "Kuruvad": {
+        "latitude": 8.42564855,
+        "longitude": 77.15240699848252
+    },
+    "Neyyattinkara Hospital": {
+        "latitude": 8.4063609,
+        "longitude": 77.08554668201657
+    },
+    "Vettikavala": {
+        "latitude": 8.988884800000001,
+        "longitude": 76.83969911156895
+    },
+    "Kudappanakkunnu": {
+        "latitude": 8.5459121,
+        "longitude": 76.959418
+    },
+    "Varkala": {
+        "latitude": 8.7342288,
+        "longitude": 76.7257086
+    },
+    "8th Mile St": {
+        "latitude": 9.5781862,
+        "longitude": 76.6146125
+    },
+    "Bonacaud School": {
+        "latitude": 8.68202685,
+        "longitude": 77.16691818706335
+    },
+    "Alappuzha": {
+        "latitude": 9.5006651,
+        "longitude": 76.41241428564258
+    },
+    "Porunthaman": {
+        "latitude": 8.760581957559307,
+        "longitude": 76.89559173126383
+    },
+    "Vedivachan Kovil": {
+        "latitude": 8.4315691,
+        "longitude": 77.0280747
+    },
+    "Karakulam Panchayat Office": {
+        "latitude": 8.5628092,
+        "longitude": 76.98406010000001
+    },
+    "Sreekaryam Jn": {
+        "latitude": 8.5402599,
+        "longitude": 76.9246538
+    },
+    "Ochira": {
+        "latitude": 9.1318373,
+        "longitude": 76.5251596
+    },
+    "Cherukode": {
+        "latitude": 10.843681,
+        "longitude": 76.2375054
+    },
+    "Attukal": {
+        "latitude": 8.46979725,
+        "longitude": 76.95551287073371
+    },
+    "Kalliyoor Panchayat": {
+        "latitude": 8.43208295,
+        "longitude": 77.02032297394203
+    },
+    "Thakaraparambu": {
+        "latitude": 9.075687243021619,
+        "longitude": 76.84488872291085
+    },
+    "Panayam": {
+        "latitude": 8.962758,
+        "longitude": 76.6189148
+    },
+    "Sasthamnada": {
+        "latitude": 9.0596404,
+        "longitude": 76.67478040244202
+    },
+    "Kudayal School": {
+        "latitude": 8.42095725,
+        "longitude": 77.17447886997127
+    },
+    "Chirattakonam": {
+        "latitude": 8.9814516,
+        "longitude": 76.8376377
+    },
+    "Edacode Library": {
+        "latitude": 8.8698757,
+        "longitude": 76.8539175
+    },
+    "Iqbal College": {
+        "latitude": 8.7167305,
+        "longitude": 77.05996964865798
+    },
+    "Thannimood": {
+        "latitude": 8.402116446540562,
+        "longitude": 77.05352173493104
+    },
+    "Nellimood": {
+        "latitude": 8.621595398920453,
+        "longitude": 76.83492934284281
+    },
+    "Thennoor": {
+        "latitude": 8.7070485,
+        "longitude": 77.0707992
+    },
+    "12th Mile": {
+        "latitude": 9.6986535,
+        "longitude": 76.6854877
+    },
+    "Kazhakoottam": {
+        "latitude": 8.556815,
+        "longitude": 76.8727534
+    },
+    "Karavaloor": {
+        "latitude": 8.9807724,
+        "longitude": 76.9250357
+    },
+    "Punalur": {
+        "latitude": 9.0174612,
+        "longitude": 76.9264764
+    },
+    "Moongodu A": {
+        "latitude": 8.503478778871798,
+        "longitude": 77.04235679834117
+    },
+    "Ayirooppara": {
+        "latitude": 8.606502899999999,
+        "longitude": 76.91189047989306
+    },
+    "Palimukku": {
+        "latitude": 8.5131598,
+        "longitude": 77.0143176
+    },
+    "Chappathu": {
+        "latitude": 9.6669414,
+        "longitude": 77.0221785
+    },
+    "Nanniyodu": {
+        "latitude": 10.639924,
+        "longitude": 76.78276151056716
+    },
+    "Nemam": {
+        "latitude": 11.464978433897807,
+        "longitude": 79.36112548445996
+    },
+    "Jawahar Colony Thiruvananthapuram": {
+        "latitude": 8.761097,
+        "longitude": 77.02466536562369
+    },
+    "Chathancode": {
+        "latitude": 8.293542948495672,
+        "longitude": 77.14765688577938
+    },
+    "Karunagapally": {
+        "latitude": 9.0551448,
+        "longitude": 76.5354179
+    },
+    "Sankaramangalam": {
+        "latitude": 10.8128527,
+        "longitude": 76.1865355
+    },
+    "Chowara Temple": {
+        "latitude": 10.1395972,
+        "longitude": 76.3968339
+    },
+    "Kannampalli": {
+        "latitude": 13.6529327,
+        "longitude": 77.9133152
+    },
+    "Swamiyarmadam": {
+        "latitude": 8.2883686,
+        "longitude": 77.2695673
+    },
+    "Thiruvanathapuram": {
+        "latitude": 8.504450475677015,
+        "longitude": 76.973066561505
+    },
+    "Palyam": {
+        "latitude": 13.7939412,
+        "longitude": 77.0493035
+    },
+    "Kottor": {
+        "latitude": 10.9867393,
+        "longitude": 76.03316046104146
+    },
+    "Attukal School": {
+        "latitude": 8.658190900000001,
+        "longitude": 77.00843570142038
+    },
+    "Bharathanoor": {
+        "latitude": 8.7633365,
+        "longitude": 76.9832445
+    },
+    "Palakkad": {
+        "latitude": 10.78736915,
+        "longitude": 76.47421718925105
+    },
+    "Thekkada": {
+        "latitude": 8.6307294,
+        "longitude": 76.9568582
+    },
+    "Mudavanmughal": {
+        "latitude": 8.486608799999999,
+        "longitude": 76.98411217671185
+    },
+    "Undappara": {
+        "latitude": 8.546806081193177,
+        "longitude": 77.0836852707041
+    },
+    "Anacodu": {
+        "latitude": 8.533688411194403,
+        "longitude": 77.09318512041345
+    },
+    "Pachamala": {
+        "latitude": 8.6621088,
+        "longitude": 77.0429061
+    },
+    "Kuruthamcode": {
+        "latitude": 8.486226597603697,
+        "longitude": 77.10851629428359
+    },
+    "Puthen Palam": {
+        "latitude": 9.5321393,
+        "longitude": 76.8856388
+    },
+    "Manakkala": {
+        "latitude": 9.134261,
+        "longitude": 76.7197825
+    },
+    "Chengalur": {
+        "latitude": 10.39757865,
+        "longitude": 76.30727636270228
+    },
+    "Kottyam": {
+        "latitude": 8.869606875355688,
+        "longitude": 76.66059843926911
+    },
+    "Arumanoor": {
+        "latitude": 9.6442023,
+        "longitude": 76.5900099
+    },
+    "Ooruttukala": {
+        "latitude": 8.39975375,
+        "longitude": 77.07241154799667
+    },
+    "Ankamaly": {
+        "latitude": 10.195667799999999,
+        "longitude": 76.3864584889653
+    },
+    "Pravinkoodu": {
+        "latitude": 9.3415834,
+        "longitude": 76.599061
+    },
+    "Chittoor": {
+        "latitude": 13.202648400000001,
+        "longitude": 79.00322534350747
+    },
+    "Pallimukk": {
+        "latitude": 8.5133655,
+        "longitude": 77.0160875
+    },
+    "Kolachal": {
+        "latitude": 8.5021518,
+        "longitude": 76.9863187
+    },
+    "Koppam Church": {
+        "latitude": 8.64478595,
+        "longitude": 76.92774828820852
+    },
+    "Parayankuzhi": {
+        "latitude": 11.390052149999999,
+        "longitude": 76.02993304101732
+    },
+    "Chirakkonam": {
+        "latitude": 8.512105536459034,
+        "longitude": 77.01966319851806
+    },
+    "Manathala": {
+        "latitude": 10.5761767,
+        "longitude": 76.0156171
+    },
+    "Harippad": {
+        "latitude": 9.29317885,
+        "longitude": 76.41468718520966
+    },
+    "Kappikadu": {
+        "latitude": 8.53846545,
+        "longitude": 77.08479251871583
+    },
+    "Kappukadu": {
+        "latitude": 9.559211300000001,
+        "longitude": 76.69836344246104
+    },
+    "Thumpode": {
+        "latitude": 8.73971905,
+        "longitude": 76.94039087770167
+    },
+    "Charummood": {
+        "latitude": 9.184858,
+        "longitude": 76.60409120963706
+    },
+    "Csi Church": {
+        "latitude": 10.9122192,
+        "longitude": 76.9485563
+    },
+    "Avanavancheri": {
+        "latitude": 8.68536,
+        "longitude": 76.8250637
+    },
+    "Vedivechan": {
+        "latitude": 8.432796100000001,
+        "longitude": 77.02930785364745
+    },
+    "Pookaitha": {
+        "latitude": 9.281761450000001,
+        "longitude": 76.5555374931416
+    },
+    "Enath": {
+        "latitude": 9.09293855,
+        "longitude": 76.756439559802
+    },
+    "Avanavancherry": {
+        "latitude": 8.69340245,
+        "longitude": 76.83786487552973
+    },
+    "Kazhakuttam": {
+        "latitude": 8.556815,
+        "longitude": 76.8727534
+    },
+    "Irumaram": {
+        "latitude": 8.6122919,
+        "longitude": 77.0213802
+    },
+    "Navaikulam": {
+        "latitude": 8.7811284,
+        "longitude": 76.7864728
+    },
+    "Anchal": {
+        "latitude": 8.9292657,
+        "longitude": 76.9065012
+    },
+    "Moozhy": {
+        "latitude": 9.9349134,
+        "longitude": 76.5989777
+    },
+    "Vettamukku": {
+        "latitude": 9.0209901,
+        "longitude": 76.540206
+    },
+    "Vavvakavu": {
+        "latitude": 9.100568,
+        "longitude": 76.5220546
+    },
+    "Chathannur": {
+        "latitude": 8.8573522,
+        "longitude": 76.72262227811484
+    },
+    "Kamukinkode": {
+        "latitude": 8.38984355,
+        "longitude": 77.06703141166054
+    },
+    "Thenkasi": {
+        "latitude": 10.5459976,
+        "longitude": 79.5972817
+    },
+    "Chengannur": {
+        "latitude": 9.3182808,
+        "longitude": 76.6085318
+    },
+    "Kattappana": {
+        "latitude": 9.7561717,
+        "longitude": 77.1140611
+    },
+    "Thottumukk": {
+        "latitude": 9.76886065,
+        "longitude": 76.82022102692669
+    },
+    "Aluva": {
+        "latitude": 10.100414,
+        "longitude": 76.356986
+    },
+    "Kottarakkara Temple": {
+        "latitude": 9.0092158,
+        "longitude": 76.7863945
+    },
+    "Nedumkandam": {
+        "latitude": 9.8412988,
+        "longitude": 77.1530497
+    },
+    "Mundakayam": {
+        "latitude": 9.5187367,
+        "longitude": 76.88763986495363
+    },
+    "Konni": {
+        "latitude": 9.2266942,
+        "longitude": 76.8499466
+    },
+    "Kazhakkuttam": {
+        "latitude": 8.56432198726977,
+        "longitude": 76.86084380249443
+    },
+    "Guruvayoor": {
+        "latitude": 10.5925345,
+        "longitude": 76.03392708104963
+    },
+    "Chathanoor": {
+        "latitude": 8.858422099999999,
+        "longitude": 76.72203408934462
+    },
+    "Puliyara": {
+        "latitude": 8.4659669,
+        "longitude": 77.1599431
+    },
+    "Chingavanam": {
+        "latitude": 9.5247631,
+        "longitude": 76.5247268
+    },
+    "Chirayinkeezhu": {
+        "latitude": 8.7164705,
+        "longitude": 76.83295642290805
+    },
+    "Chalakkudy": {
+        "latitude": 10.33153165,
+        "longitude": 76.54888845095073
+    },
+    "Kazhakkottam": {
+        "latitude": 8.5979439,
+        "longitude": 76.90011188019588
+    },
+    "Vithura": {
+        "latitude": 8.67,
+        "longitude": 77.085
+    },
+    "Enathu": {
+        "latitude": 9.0937223,
+        "longitude": 76.75975210839297
+    },
+    "Sulthan Bathery": {
+        "latitude": 11.72639615,
+        "longitude": 76.32799237426437
+    },
+    "Kalamassery": {
+        "latitude": 10.0547254,
+        "longitude": 76.3181545
+    },
+    "Karettu": {
+        "latitude": 8.73255555,
+        "longitude": 76.8962156361547
+    },
+    "Pulinkudi": {
+        "latitude": 8.3594324,
+        "longitude": 77.0178676
+    },
+    "Kattaikonam": {
+        "latitude": 8.6026685,
+        "longitude": 76.8970727
+    },
+    "Paripally": {
+        "latitude": 8.8123953,
+        "longitude": 76.7587533
+    },
+    "Kuttikkanam": {
+        "latitude": 9.5823102,
+        "longitude": 76.970999
+    },
+    "Paravoor Market": {
+        "latitude": 9.86369075,
+        "longitude": 76.37950563640314
+    },
+    "Ranni": {
+        "latitude": 9.3852605,
+        "longitude": 76.7848789
+    },
+    "Kunnamkulam": {
+        "latitude": 10.6548692,
+        "longitude": 76.09587816203106
+    },
+    "Vayalikkada": {
+        "latitude": 8.5330126,
+        "longitude": 76.9538625
+    },
+    "Thoppumpady": {
+        "latitude": 9.9348129,
+        "longitude": 76.2600732
+    },
+    "Kalpatta": {
+        "latitude": 11.03782045,
+        "longitude": 76.00750037558569
+    },
+    "Kottakkal": {
+        "latitude": 11.0004806,
+        "longitude": 76.004758
+    },
+    "Kavanad": {
+        "latitude": 8.9208304,
+        "longitude": 76.5588029
+    },
+    "Kanjirappally": {
+        "latitude": 9.544032399999999,
+        "longitude": 76.81041661499324
+    },
+    "Civilstation": {
+        "latitude": 11.0390093,
+        "longitude": 76.07794483455189
+    },
+    "Pudukkad": {
+        "latitude": 10.4094954,
+        "longitude": 76.29866965451856
+    },
+    "Puthoor": {
+        "latitude": 11.003419,
+        "longitude": 76.0146715
+    },
+    "Karuvatta Tb": {
+        "latitude": 9.3152565,
+        "longitude": 76.42857591734737
+    },
+    "Keraladhithyapuram": {
+        "latitude": 8.5635614,
+        "longitude": 76.9336996
+    },
+    "Thottakkadu": {
+        "latitude": 8.7538901,
+        "longitude": 76.8118935
+    },
+    "Pallimuk": {
+        "latitude": 8.963213069342492,
+        "longitude": 76.81205771249468
+    },
+    "Bharanikkavu": {
+        "latitude": 9.0597089,
+        "longitude": 76.6381905
+    },
+    "Perumbavoor": {
+        "latitude": 10.1147548,
+        "longitude": 76.4778152
+    },
+    "Pattam": {
+        "latitude": 11.0287675,
+        "longitude": 79.7733271
+    },
+    "Kalpetta": {
+        "latitude": 11.6136614,
+        "longitude": 76.0851692
+    },
+    "Koodal": {
+        "latitude": 9.1388877,
+        "longitude": 76.8552143
+    },
+    "Peringamala Church": {
+        "latitude": 8.4149488,
+        "longitude": 77.019093
+    },
+    "Erumely": {
+        "latitude": 9.4813743,
+        "longitude": 76.8448927
+    },
+    "Pallickal": {
+        "latitude": 9.1442256,
+        "longitude": 76.64320611273767
+    },
+    "Chalakudy": {
+        "latitude": 10.3041869,
+        "longitude": 76.3371037
+    },
+    "Cheppad": {
+        "latitude": 9.2386096,
+        "longitude": 76.4709765
+    },
+    "Pravinkood": {
+        "latitude": 9.349242650660422,
+        "longitude": 76.59403511550191
+    },
+    "Ambalappuzha": {
+        "latitude": 9.3862866,
+        "longitude": 76.3627219
+    },
+    "Muvattupuzha": {
+        "latitude": 9.9831493,
+        "longitude": 76.5781613
+    },
+    "Ambalapuzha": {
+        "latitude": 9.3862866,
+        "longitude": 76.3627219
+    },
+    "Bakery": {
+        "latitude": 12.9316137,
+        "longitude": 77.6072662
+    },
+    "Kalavoor": {
+        "latitude": 9.5705238,
+        "longitude": 76.3286125
+    },
+    "Puthukad": {
+        "latitude": 10.12471355,
+        "longitude": 76.27844352102557
+    },
+    "Elappara": {
+        "latitude": 9.6306232,
+        "longitude": 76.9784714
+    },
+    "Thottapally": {
+        "latitude": 10.258008748228008,
+        "longitude": 76.26964205791819
+    },
+    "Cherthala B": {
+        "latitude": 9.686177,
+        "longitude": 76.3426114
+    },
+    "Parasuvakkal": {
+        "latitude": 8.3650249,
+        "longitude": 77.1408124
+    },
+    "Kazhakootam": {
+        "latitude": 8.564103450000001,
+        "longitude": 76.88229386977332
+    },
+    "Karunagappally Bus Stand": {
+        "latitude": 8.97900814228235,
+        "longitude": 76.53592810026645
+    },
+    "Mattukkatta": {
+        "latitude": 9.7026022,
+        "longitude": 77.0403652
+    },
+    "Pappnamcode": {
+        "latitude": 8.4662954,
+        "longitude": 76.98392059907283
+    },
+    "Thamarassery": {
+        "latitude": 11.418374700000001,
+        "longitude": 76.01905971758696
+    },
+    "Manakala": {
+        "latitude": 9.1274971,
+        "longitude": 76.7159724
+    },
+    "Punalal": {
+        "latitude": 8.5623741,
+        "longitude": 77.07409694465849
+    },
+    "Kariyilakulangara": {
+        "latitude": 8.42974465,
+        "longitude": 77.09688322061206
+    },
+    "Thuravoor": {
+        "latitude": 9.7685613,
+        "longitude": 76.3182441
+    },
+    "Mele Chanthavila": {
+        "latitude": 8.6741254,
+        "longitude": 77.0793433
+    },
+    "Pongummoodu": {
+        "latitude": 8.476162660184018,
+        "longitude": 77.04955245694946
+    },
+    "Oachira": {
+        "latitude": 9.1303868,
+        "longitude": 76.5146262
+    },
+    "Ayyappankuzhy": {
+        "latitude": 8.564453805841643,
+        "longitude": 76.96224523764677
+    },
+    "Vavvakkavu": {
+        "latitude": 9.10047,
+        "longitude": 76.5222665
+    },
+    "Ramapuram": {
+        "latitude": 10.5088184,
+        "longitude": 79.3083395
+    },
+    "Chakkai": {
+        "latitude": 8.49295665,
+        "longitude": 76.92519838832133
+    },
+    "Pump House": {
+        "latitude": 10.0651261,
+        "longitude": 76.3317224
+    },
+    "Thattamukku": {
+        "latitude": 8.51428729773795,
+        "longitude": 77.18267857795632
+    },
+    "Kottamughal": {
+        "latitude": 9.135814318015804,
+        "longitude": 76.73889986693202
+    },
+    "Chenganaserry": {
+        "latitude": 9.463453,
+        "longitude": 76.6360728
+    },
+    "Panappamkunnu": {
+        "latitude": 8.808188600000001,
+        "longitude": 76.83999791244769
+    },
+    "Panacode": {
+        "latitude": 8.630369434070865,
+        "longitude": 77.03015698686059
+    },
+    "Nims Hospital": {
+        "latitude": 8.41330595,
+        "longitude": 77.06605644793677
+    },
+    "Kannampally": {
+        "latitude": 9.90364945629393,
+        "longitude": 76.27263688580899
+    },
+    "Eramalloor": {
+        "latitude": 9.8229307,
+        "longitude": 76.3106548
+    },
+    "Marayamuttam": {
+        "latitude": 8.4165865,
+        "longitude": 77.107505
+    },
+    "Vadakara": {
+        "latitude": 9.49449555,
+        "longitude": 76.70810169159891
+    },
+    "Oottukuzhi": {
+        "latitude": 8.56617935,
+        "longitude": 76.88005051767695
+    },
+    "Vazhathope": {
+        "latitude": 9.8747128,
+        "longitude": 76.959695
+    },
+    "Mylapra": {
+        "latitude": 9.2872143,
+        "longitude": 76.7976583
+    },
+    "Edappal": {
+        "latitude": 10.7837932,
+        "longitude": 76.0077904
+    },
+    "S N Nagar": {
+        "latitude": 9.761422,
+        "longitude": 76.3495616
+    },
+    "Oyoor": {
+        "latitude": 8.8748253,
+        "longitude": 76.773481
+    },
+    "Puliyanmala": {
+        "latitude": 9.7522533,
+        "longitude": 77.1518035
+    },
+    "Chempakapara": {
+        "latitude": 9.843768050000001,
+        "longitude": 77.08498068273491
+    },
+    "Panavely": {
+        "latitude": 8.9731198,
+        "longitude": 76.8245157
+    },
+    "Poredam": {
+        "latitude": 8.85607085,
+        "longitude": 76.83619574621623
+    },
+    "Choodal": {
+        "latitude": 10.62406145,
+        "longitude": 76.09745152541525
+    },
+    "Omalloor Market": {
+        "latitude": 9.239349149999999,
+        "longitude": 76.75587438931711
+    },
+    "Mlanthadam": {
+        "latitude": 9.17308895,
+        "longitude": 76.87018391807939
+    },
+    "Kseb Junction": {
+        "latitude": 10.15714,
+        "longitude": 76.3026424
+    },
+    "Eranakulam": {
+        "latitude": 10.038394700000001,
+        "longitude": 76.50741452482532
+    },
+    "Aruvattukonam": {
+        "latitude": 8.45608955,
+        "longitude": 77.16834174826916
+    },
+    "Kavanadu": {
+        "latitude": 10.37485465,
+        "longitude": 76.32706178077922
+    },
+    "Chempoor": {
+        "latitude": 8.681705488950742,
+        "longitude": 76.86843986904537
+    },
+    "Plampazhinji": {
+        "latitude": 8.4955493,
+        "longitude": 77.15597883041956
+    },
+    "Kattachalvila": {
+        "latitude": 8.4046819,
+        "longitude": 77.1623361
+    },
+    "Mukkampalamoodu": {
+        "latitude": 8.586882,
+        "longitude": 76.9457483
+    },
+    "Ettumanoor": {
+        "latitude": 9.6751487,
+        "longitude": 76.5460114
+    },
+    "Kuttimood": {
+        "latitude": 8.7470762,
+        "longitude": 76.9210696
+    },
+    "Maruthoor": {
+        "latitude": 8.572271,
+        "longitude": 76.9442202
+    },
+    "Maruthoorkonam Temple": {
+        "latitude": 8.3811341,
+        "longitude": 77.02762735675529
+    },
+    "Thottakkad": {
+        "latitude": 9.5257753,
+        "longitude": 76.60257541565188
+    },
+    "Thengumcode": {
+        "latitude": 8.730196450000001,
+        "longitude": 76.96231842495837
+    },
+    "Velleyambalam": {
+        "latitude": 8.5119848,
+        "longitude": 76.9634614
+    },
+    "Marakkadu": {
+        "latitude": 8.651272378008501,
+        "longitude": 76.96401454399488
+    },
+    "Thampanoor/ef": {
+        "latitude": 8.4876666,
+        "longitude": 76.952434
+    },
+    "Vavode Church": {
+        "latitude": 8.5152403,
+        "longitude": 77.15250231713117
+    },
+    "Attinpuram": {
+        "latitude": 8.67207134176609,
+        "longitude": 76.99001240744252
+    },
+    "Kanchinada": {
+        "latitude": 8.742899300000001,
+        "longitude": 76.98314497632524
+    },
+    "Kanjirapally": {
+        "latitude": 9.5579726,
+        "longitude": 76.7916486
+    },
+    "Konni Market": {
+        "latitude": 9.225801821395482,
+        "longitude": 76.85163567815994
+    },
+    "Tvm": {
+        "latitude": 12.9062651,
+        "longitude": 77.5763516
+    },
+    "Aims": {
+        "latitude": 9.9673133,
+        "longitude": 76.289569
+    },
+    "Veli": {
+        "latitude": 9.912250756966062,
+        "longitude": 78.11235559714252
+    },
+    "Vlavetty": {
+        "latitude": 8.563936486082254,
+        "longitude": 77.14013088132604
+    },
+    "Therani": {
+        "latitude": 11.1042523,
+        "longitude": 78.8685107
+    },
+    "Vazhachal": {
+        "latitude": 10.2847989,
+        "longitude": 76.5691181
+    },
+    "Chengallur": {
+        "latitude": 8.49296792925003,
+        "longitude": 76.97721715817123
+    },
+    "Vytilla": {
+        "latitude": 9.9718227,
+        "longitude": 76.3178983
+    },
+    "Kottrakkari": {
+        "latitude": 8.6274472,
+        "longitude": 76.82722628062945
+    },
+    "Kottukonam": {
+        "latitude": 8.4110087,
+        "longitude": 77.1672153
+    },
+    "Kochalumoodu": {
+        "latitude": 9.2450626,
+        "longitude": 76.585146
+    },
+    "Koonanvenga": {
+        "latitude": 8.688165099999999,
+        "longitude": 76.97653344242181
+    },
+    "Devaswom Board Junction": {
+        "latitude": 8.5176201,
+        "longitude": 76.9569667
+    },
+    "Mottakavu": {
+        "latitude": 8.641866799113794,
+        "longitude": 77.00998322766051
+    },
+    "Eswara Vilasom": {
+        "latitude": 8.435080171283502,
+        "longitude": 77.02212170670747
+    },
+    "Neyyattinkara Bs": {
+        "latitude": 8.38687575,
+        "longitude": 77.11281728244606
+    },
+    "Haripad": {
+        "latitude": 9.2777001,
+        "longitude": 76.4631904
+    },
+    "Nellikuzhi": {
+        "latitude": 10.0765899,
+        "longitude": 76.5927892
+    },
+    "Lulu": {
+        "latitude": 10.540916249999999,
+        "longitude": 76.1832184577072
+    },
+    "Anakuzhy": {
+        "latitude": 9.71008285,
+        "longitude": 77.03581464450399
+    },
+    "Chempazhanthi": {
+        "latitude": 8.5680488,
+        "longitude": 76.9085274
+    },
+    "Cherukodu": {
+        "latitude": 10.6231637,
+        "longitude": 76.62997054521904
+    },
+    "Muthipara": {
+        "latitude": 8.698049900000001,
+        "longitude": 76.94548493608136
+    },
+    "Poundkadavu": {
+        "latitude": 8.527064549999999,
+        "longitude": 76.88276262294505
+    },
+    "Panchayath Well": {
+        "latitude": 11.18251175,
+        "longitude": 76.05718298980436
+    },
+    "Karakkadu": {
+        "latitude": 10.604078900000001,
+        "longitude": 76.66198519626016
+    },
+    "Pamba": {
+        "latitude": 9.47869786932112,
+        "longitude": 76.38761803075236
+    },
+    "Azhimala": {
+        "latitude": 8.35082735,
+        "longitude": 77.02224687864287
+    },
+    "Anavoor": {
+        "latitude": 8.4442321,
+        "longitude": 77.1352748
+    },
+    "Padmavilasam Road": {
+        "latitude": 8.48431641197887,
+        "longitude": 76.94438688105777
+    },
+    "Theviyarkunnu School": {
+        "latitude": 8.6228969,
+        "longitude": 77.10258258731804
+    },
+    "Kochuveli": {
+        "latitude": 8.5103341,
+        "longitude": 76.8970471
+    },
+    "Fathima Nagar": {
+        "latitude": 10.6740689,
+        "longitude": 78.6021894
+    },
+    "Panangode": {
+        "latitude": 8.40177825,
+        "longitude": 76.99494830056625
+    },
+    "Aanakulam": {
+        "latitude": 9.95885055,
+        "longitude": 76.34204501337304
+    },
+    "Kadukkara": {
+        "latitude": 9.7805463,
+        "longitude": 76.4316463
+    },
+    "St Mary's School": {
+        "latitude": 12.8456846,
+        "longitude": 77.609514
+    },
+    "Keezhavoor": {
+        "latitude": 8.6162634,
+        "longitude": 76.8736571
+    },
+    "Kanyakulangara": {
+        "latitude": 8.6295587,
+        "longitude": 76.9374208
+    },
+    "Varakala Temple": {
+        "latitude": 8.7437552,
+        "longitude": 76.7043803
+    },
+    "Katakada": {
+        "latitude": 8.4492232,
+        "longitude": 77.0120915
+    },
+    "Punnakkadu": {
+        "latitude": 10.916252700000001,
+        "longitude": 76.1491146129161
+    },
+    "Kottackal": {
+        "latitude": 8.4239564,
+        "longitude": 77.138711
+    },
+    "Paliyodu": {
+        "latitude": 8.42933305,
+        "longitude": 77.14827954975082
+    },
+    "Ottashekaramangalam": {
+        "latitude": 8.479043449999999,
+        "longitude": 77.13489096267146
+    },
+    "Cheenivila": {
+        "latitude": 8.92622735,
+        "longitude": 76.85036538377021
+    },
+    "Ettivila": {
+        "latitude": 8.999446869512925,
+        "longitude": 76.98346546224764
+    },
+    "Easwara Vilasam": {
+        "latitude": 8.5021245,
+        "longitude": 76.9638366
+    },
+    "Alumkuzhi": {
+        "latitude": 8.657574799999999,
+        "longitude": 77.03082870613231
+    },
+    "Meenankal": {
+        "latitude": 8.63701665,
+        "longitude": 77.09943956848129
+    },
+    "Sainikschool": {
+        "latitude": 8.5776436,
+        "longitude": 76.8719998
+    },
+    "Panachamoode": {
+        "latitude": 8.4348038,
+        "longitude": 77.1878242
+    },
+    "Kalayil": {
+        "latitude": 11.348945650000001,
+        "longitude": 76.30390979173046
+    },
+    "Manchamcode": {
+        "latitude": 8.4776736,
+        "longitude": 77.1655696
+    },
+    "Vittiyodu": {
+        "latitude": 8.486600249999999,
+        "longitude": 77.17344891451214
+    },
+    "Kidarakuzhy": {
+        "latitude": 8.3686969,
+        "longitude": 77.0177545
+    },
+    "Lms\\museum": {
+        "latitude": 8.5068686,
+        "longitude": 76.9523932
+    },
+    "Kurisady": {
+        "latitude": 9.3784821,
+        "longitude": 76.56476155540712
+    },
+    "Chempancode": {
+        "latitude": 8.70175945,
+        "longitude": 76.95425582698113
+    },
+    "Vallakkadavu": {
+        "latitude": 8.4744163,
+        "longitude": 76.9207543
+    },
+    "Kuttamal": {
+        "latitude": 8.5032216,
+        "longitude": 77.17359504327375
+    },
+    "Kalliyoor Grama Panchayat": {
+        "latitude": 8.43208295,
+        "longitude": 77.02032297394203
+    },
+    "Panangodu": {
+        "latitude": 8.4021477,
+        "longitude": 76.9946322
+    },
+    "Pidaram": {
+        "latitude": 8.501460774697621,
+        "longitude": 77.02404249146744
+    },
+    "Aryanad Bus Stand": {
+        "latitude": 8.5796319,
+        "longitude": 77.0830541
+    },
+    "Melancode": {
+        "latitude": 8.573016323373723,
+        "longitude": 76.93906967518998
+    },
+    "Oorutambalam": {
+        "latitude": 8.4594675,
+        "longitude": 77.0615762828977
+    },
+    "Kattodu": {
+        "latitude": 9.663476018998196,
+        "longitude": 76.58056634715686
+    },
+    "Kalliyoor Panchayath": {
+        "latitude": 8.43147,
+        "longitude": 77.0136919
+    }
+}

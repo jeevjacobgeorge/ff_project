@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Route Map</title>
+</head>
+<body>
+    <h1>Bus Route Map</h1>
+    <div>{{ map_html|safe }}</div>
+    <br>
+    <a href="{% url 'bus_route_view' %}">Go back</a>
+</body>
+</html>

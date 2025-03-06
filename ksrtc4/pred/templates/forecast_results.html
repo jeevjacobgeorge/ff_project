@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demand Forecast Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fbe5e5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #d32f2f;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2, h3 {
+            color: #d32f2f;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f8d7da;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .forecast-plot {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .button {
+            display: inline-block;
+            background-color: #d32f2f;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        .button:hover {
+            background-color: #c62828;
+        }
+
+        .time-format {
+            font-style: italic;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Demand Forecast Results</h1>
+    </header>
+
+    <div class="container">
+        <div class="forecast-plot">
+            <h3>Demand Forecast Plot:</h3>
+            <img src="data:image/png;base64,{{ image_base64 }}" alt="Demand Forecast Plot" />
+        </div>
+
+        <h2>Total Predicted Demand: {{ total_demand }}</h2>
+
+        <h3>Hourly Predicted Demand:</h3>
+        <ul>
+            {% for demand in hourly_demand %}
+                <li>Hour {{ forloop.counter }}: {{ demand }} 
+                    <span class="time-format">({{ forloop.counter0|add:6|time:"h:i A" }})</span>
+                </li>
+            {% endfor %}
+        </ul>
+
+        <a href="{% url 'demand_forecast' %}" class="button">Go Back</a>
+    </div>
+</body>
+</html>

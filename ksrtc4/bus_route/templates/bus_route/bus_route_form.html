@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Route Finder</title>
+</head>
+<body>
+    <h1>Enter Bus Stops</h1>
+    <form method="post">
+        {% csrf_token %}
+        <label for="stop_names">Enter Bus Stops (comma-separated):</label><br>
+        <input type="text" name="stop_names" id="stop_names" required><br><br>
+        <input type="submit" value="Show Route">
+    </form>
+
+    {% if error_message %}
+        <p style="color: red;">{{ error_message }}</p>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,26 @@
+# Django & its ecosystem
+asgiref
+Django
+sqlparse
+typing_extensions
+
+# Mapping & Data Analysis
+folium==0.18.0
+pandas
+numpy
+geopy
+matplotlib
+scikit-learn
+tensorflow
+gmplot
+
+# Environment & Generative AI
+dotenv
+google-generativeai
+
+# Apache Airflow & Google Cloud integration
+apache-airflow
+apache-airflow-providers-google
+google-cloud-bigquery
+
+googlemaps

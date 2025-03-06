@@ -1,0 +1,133 @@
+
+body{
+    background-color: white;
+  }
+  h2{
+    font-family: 'Montserrat', bold;
+    margin-top: 3rem;
+    text-align: center;
+  }
+  p{
+    text-align: center;
+    font-family: "proxima-nova", sans-serif;
+  }
+  #clock{
+    font-size: 1.3rem;
+    font-family: "proxima-nova", sans-serif;
+  }
+  .endpt{
+    width: 20%;
+    height: 4rem;
+    border-radius: 1.8rem;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3.5rem;
+    border: 1px solid transparent;
+    font-family: "proxima-nova", sans-serif;
+    font-size: 1.1rem;
+    background-color: light-dark(rgb(232, 240, 254), rgba(70, 90, 126, 0.4));
+    font-weight: 600;
+  }
+  
+  .toFromBoxes{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 3rem;
+  }
+  
+  img{
+    width: 70px;
+    margin-top: 60px;
+  }
+  .busImg{
+    width: 80px;
+  }
+  #searchBtn{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+    height: 4.5rem;
+    border-radius: 1rem;
+    width: 11%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color:  #d32f2f;
+    border: 1px solid transparent;
+    font-family: 'Montserrat', bold;
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  #searchBtn:hover{
+    background-color: #cccccc; /* light gray background on hover */
+    cursor: pointer;
+  }
+  .busTable{
+   /* border-collapse: collapse;*/
+    margin: 40px 0;
+    font-size: 1rem;
+    width: 100%;
+    text-align: center;
+    border-spacing: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "proxima-nova", sans-serif;
+    justify-content: center;
+    font-weight: 600;
+  }
+  .bus-table{
+    width: 100%;
+  }
+  
+  .bus-row{
+    border-collapse: collapse;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 15px;
+    border-bottom: 15px solid transparent;
+    background-color: light-dark(rgb(232, 240, 254), rgba(70, 90, 126, 0.4));
+    color: black; 
+    margin-top: 2rem;
+    width: 80%;
+    height: 80px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    animation: 3s infinite alternate slidein;
+  }
+  .bus-row div{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  .bus-row:hover{
+    cursor: pointer;
+    background-color: #ebe7e7;
+  }
+  .bus-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
+    font-size: 1.5rem;
+  }
+  .bus-table, .bus-header, .bus-row{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .bus-service-type, .dept-time-type, .arr-time-type, .avail-seat-type{
+    width: 20%;
+    text-align: center;
+    justify-content: center;
+    margin-top: 1rem;
+    padding-top: 10px;
+    font-size: 1.2rem;
+  }

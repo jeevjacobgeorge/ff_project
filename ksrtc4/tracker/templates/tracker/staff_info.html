@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'staff_info.css' %}">
+    <title>KSRTC Tracker</title>
+</head>
+<body>
+  <h2 class="ip">Please enter the End-Station points for your duty..</h2>
+  <div class="top">
+    <div class="toFromBoxes">
+      <input class="endpt" type="text" id="fromInput" placeholder="From">
+      <img src="{% static 'images/Group 2.png' %}" alt="" class="dotLeft">
+      <img class="busImg" src="{% static 'images/bus logo_blue.png' %}" alt="">
+      <img src="{% static 'images/Group 1.png' %}" alt="" class="dotRight"> 
+      <input class="endpt" type="text" id="toInput" placeholder="To">
+    </div>
+    <button id="searchBtn">Get Bus</button>
+    <p class="busSelect">Select your bus</p>
+    <div id="busResults" class="busTable"></div>
+  </div>
+    <div id="busResults" class="busTable"></div>
+    <script src="{% static 'js/staff_info.js' %}" type="module"></script>
+</body>
+</html>
