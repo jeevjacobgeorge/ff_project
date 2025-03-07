@@ -258,3 +258,56 @@ def get_route_details(request):
         }
     
     return JsonResponse(data)
+def bus_route_by_schedule_view(request):
+    if request.method == 'POST':
+        # Get schedule and trip numbers from the form
+        schedule_no = request.POST.get('schedule_no')
+        trip_no = request.POST.get('trip_no')
+        if not schedule_no or not trip_no:
+            return render(request, 'bus_route/bus_route_schedule_form.html', {
+                'error_message': 'Please provide both Schedule No and Trip No.'
+            })
+        try:
+            trip_no_int = int(trip_no)
+        except ValueError:
+            return render(request, 'bus_route/bus_route_schedule_form.html', {
+                'error_message': 'Trip No must be an integer.'
+            })
+        
+        # Retrieve the schedule (ensure schedule_no is uppercase as in your model)
+        try:
+            schedule = Schedule.objects.get(schedule_no=schedule_no.upper(), trip_no=trip_no_int)
+        except Schedule.DoesNotExist:
+            return render(request, 'bus_route/bus_route_schedule_form.html', {
+                'error_message': 'Schedule not found.'
+            })
+        
+        # Get all Route objects for the schedule's route, ordered by sequence number
+        routes = Route.objects.filter(route_no=schedule.route_no.upper()).order_by('order_sequence')
+        if not routes:
+            return render(request, 'bus_route/bus_route_schedule_form.html', {
+                'error_message': 'No route stops found for this schedule.'
+            })
+        
+        # Build bus_stops list (each with name, latitude, longitude)
+        bus_stops = []
+        for route in routes:
+            bus_stops.append({
+                'name': route.stop_name,
+                'latitude': route.stop_latitude,
+                'longitude': route.stop_longitude
+            })
+        
+        # Ensure we have at least two stops for a route
+        map_object = create_map(bus_stops)
+        if not map_object:
+            return render(request, 'bus_route/bus_route_schedule_form.html', {
+                'error_message': 'Not enough bus stops to create a route. At least two stops are required.'
+            })
+        
+        # Convert the map object to HTML and render the map page
+        map_html = map_object._repr_html_()
+        return render(request, 'bus_route/bus_route_map.html', {'map_html': map_html})
+    
+    # For GET requests, simply render the schedule input form
+    return render(request, 'bus_route/bus_route_schedule_form.html')
