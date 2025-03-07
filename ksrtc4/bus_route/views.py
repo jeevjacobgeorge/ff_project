@@ -181,10 +181,6 @@ def bus_route_view(request):
     print("DEBUG: Cached data loaded:", cached_data)
 
     if request.method == 'POST':
-        if not GMAP_API_KEY:
-            print("DEBUG: Google Maps API key not found. Please set the GMAP_API_KEY environment variable.")
-        else:
-            print("DEBUG: Using Google Maps API key:", GMAP_API_KEY)
         # Get bus stop names from the form
         stop_names = request.POST.get('stop_names')
         print("DEBUG: Received stop names from form:", stop_names)
@@ -223,3 +219,42 @@ def bus_route_view(request):
 
     print("DEBUG: Rendering bus route form.")
     return render(request, 'bus_route/bus_route_form.html')
+
+
+from django.http import JsonResponse, HttpResponseBadRequest
+from .models import Schedule, Route
+
+def get_route_details(request):
+    if request.method != 'GET':
+        return HttpResponseBadRequest("Only GET method is allowed.")
+    
+    schedule_no = request.GET.get('schedule_no')
+    trip_no = request.GET.get('trip_no')
+
+    if not schedule_no or not trip_no:
+        return HttpResponseBadRequest("Missing required parameters: schedule_no and trip_no.")
+    
+    try:
+        trip_no = int(trip_no)
+    except ValueError:
+        return HttpResponseBadRequest("Invalid trip_no parameter. It must be an integer.")
+    
+    try:
+        # Ensure schedule_no is uppercase as per the model's save method.
+        schedule = Schedule.objects.get(schedule_no=schedule_no.upper(), trip_no=trip_no)
+    except Schedule.DoesNotExist:
+        return JsonResponse({"error": "Schedule not found."}, status=404)
+    
+    # Retrieve all Route objects that match the schedule's route_no, ordered by the sequence number.
+    routes = Route.objects.filter(route_no=schedule.route_no.upper()).order_by('order_sequence')
+    
+    # Prepare the response data with each key as the sequence number.
+    data = {}
+    for route in routes:
+        data[route.order_sequence] = {
+            "stop_name": route.stop_name,
+            "latitude": route.stop_latitude,
+            "longitude": route.stop_longitude,
+        }
+    
+    return JsonResponse(data)
