@@ -142,5 +142,153 @@
     " Maranallur": {
         "latitude": 8.4717255,
         "longitude": 77.0724879
+    },
+    "Killy": {
+        "latitude": 11.4498671,
+        "longitude": 79.76522109999999
+    },
+    "EASTFORT SOUTH STAND 2": {
+        "latitude": 8.4845276,
+        "longitude": 76.9477422
+    },
+    "THAMPANOOR BUS STAND": {
+        "latitude": 8.4667437,
+        "longitude": 76.9546252
+    },
+    "KILLIPALAM": {
+        "latitude": 8.4794446,
+        "longitude": 76.9596981
+    },
+    "PRS": {
+        "latitude": 12.2601557,
+        "longitude": 77.1461396
+    },
+    "KARAMANA JN": {
+        "latitude": 8.4745936,
+        "longitude": 76.950297
+    },
+    "NEERAMANKARA": {
+        "latitude": 8.4769421,
+        "longitude": 76.9719767
+    },
+    "KAIMANAM JUNCTION": {
+        "latitude": 8.4814821,
+        "longitude": 76.9668264
+    },
+    "CENTRAL WORKS": {
+        "latitude": 12.2601557,
+        "longitude": 77.1461396
+    },
+    "PAPPANAMCODE": {
+        "latitude": 8.4702552,
+        "longitude": 76.9818151
+    },
+    "KARAKKAMANDAPAM JUNCTION": {
+        "latitude": 8.4578981,
+        "longitude": 76.9993734
+    },
+    "OLD KARAKKAMANDAPAM": {
+        "latitude": 8.4612262,
+        "longitude": 76.9941267
+    },
+    "VELLAYANI": {
+        "latitude": 8.4456828,
+        "longitude": 76.9922304
+    },
+    "NEMOM": {
+        "latitude": 8.4538721,
+        "longitude": 77.0104923
+    },
+    "NEMOM SCHOOL": {
+        "latitude": 8.4638288,
+        "longitude": 76.99868668306122
+    },
+    "PRAVACHAMBALAM": {
+        "latitude": 8.4486945,
+        "longitude": 77.0123907
+    },
+    "ARIKKADAMUKKU": {
+        "latitude": 8.4493858,
+        "longitude": 77.0148839
+    },
+    "MOTTAMMOODU": {
+        "latitude": 8.4498283,
+        "longitude": 77.0255908
+    },
+    "MUKKUNADA": {
+        "latitude": 8.4512043,
+        "longitude": 77.0288755
+    },
+    "NARUVAMOODU": {
+        "latitude": 8.44442295,
+        "longitude": 77.03322492472643
+    },
+    "NADUKKADU JN": {
+        "latitude": 8.4554027,
+        "longitude": 77.0377817
+    },
+    "OLIPPUNADA": {
+        "latitude": 8.4599271,
+        "longitude": 77.0383671
+    },
+    "VALIYARATHALA JN": {
+        "latitude": 8.4602399,
+        "longitude": 77.0434934
+    },
+    "GOVINDAMANGALAM TEMPLE": {
+        "latitude": 8.8200297,
+        "longitude": 76.9219937
+    },
+    "GOVINDAMANGALAM JN": {
+        "latitude": 8.4620751,
+        "longitude": 77.051013
+    },
+    "KUMBALATHUNADA": {
+        "latitude": 12.2601557,
+        "longitude": 77.1461396
+    },
+    "ISHALIKODU": {
+        "latitude": 12.2601557,
+        "longitude": 77.1461396
+    },
+    "OORUTTAMBALAM JN": {
+        "latitude": 8.4567436,
+        "longitude": 77.0593246
+    },
+    "VELLOORKONAM": {
+        "latitude": 8.683449,
+        "longitude": 76.8222996
+    },
+    "MOOLAKONAM JN": {
+        "latitude": 11.9320031,
+        "longitude": 79.77527189999999
+    },
+    "MARANALLOOR": {
+        "latitude": 8.46527825,
+        "longitude": 77.07206033701213
+    },
+    "ARUMALLOOR": {
+        "latitude": 8.4732343,
+        "longitude": 77.070837
+    },
+    "KANDALA": {
+        "latitude": 8.483973599999999,
+        "longitude": 77.070837
+    },
+    "KOCHUPALLINADA KANDALA": {
+        "latitude": 12.2601557,
+        "longitude": 77.1461396
+    },
+    "THOONGAMPARA": {
+        "latitude": 8.4928176,
+        "longitude": 77.0955296
+    },
+    "ANJUTHENGINMOODU": {
+        "latitude": 8.673439,
+        "longitude": 76.7581794
+    },
+    "KATTAKADA KSRTC DEPOT PLATFORM NO1": {
+        "latitude": 8.503254,
+        "longitude": 77.0852258
     }
 }

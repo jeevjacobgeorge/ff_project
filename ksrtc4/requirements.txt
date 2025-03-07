@@ -24,3 +24,4 @@ apache-airflow-providers-google
 google-cloud-bigquery
 
 googlemaps
+polyline
